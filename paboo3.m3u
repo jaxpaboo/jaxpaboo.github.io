@@ -1,0 +1,1501 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/x79znk16dms4m4jdngk2"
+#EXTINF:-1 tvg-id="AMC.us(m3u4u)" tvg-name=" AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="USA 🇺🇸", AMC
+http://supersonictv.live:8080/797792/016921/22042
+#EXTINF:-1 tvg-id="AMCplus.us(m3u4u)" tvg-name=" AMC Presents" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114759_dark_360w_270h.png" group-title="USA 🇺🇸", AMC Presents
+http://supersonictv.live:8080/797792/016921/77253
+#EXTINF:-1 tvg-id="Antenna3(src01).it(m3u4u)" tvg-name=" ANTENNA TV" tvg-logo="" group-title="USA 🇺🇸", ANTENNA TV
+http://supersonictv.live:8080/797792/016921/22047
+#EXTINF:-1 tvg-id="ASPiRE.us(m3u4u)" tvg-name=" Aspire" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97409_dark_360w_270h.png" group-title="USA 🇺🇸", Aspire
+http://supersonictv.live:8080/797792/016921/22048
+#EXTINF:-1 tvg-id="AWEPlus.us(m3u4u)" tvg-name=" AWE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117260_dark_360w_270h.png" group-title="USA 🇺🇸", AWE
+http://supersonictv.live:8080/797792/016921/22049
+#EXTINF:-1 tvg-id="BabyTV(English).no(m3u4u)" tvg-name=" Baby TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48542_dark_360w_270h.png" group-title="USA 🇺🇸", Baby TV
+http://supersonictv.live:8080/797792/016921/21790
+#EXTINF:-1 tvg-id="BounceTV.us(m3u4u)" tvg-name=" BOUNCE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="USA 🇺🇸", BOUNCE TV
+http://supersonictv.live:8080/797792/016921/22058
+#EXTINF:-1 tvg-id="Bravo(Pacific).us(m3u4u)" tvg-name=" Bravo " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58625_dark_360w_270h.png" group-title="USA 🇺🇸", Bravo 
+http://supersonictv.live:8080/797792/016921/22059
+#EXTINF:-1 tvg-id="BUZZR.us(m3u4u)" tvg-name=" BUZZR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="USA 🇺🇸", BUZZR
+http://supersonictv.live:8080/797792/016921/22061
+#EXTINF:-1 tvg-id="DiscoveryVelocity(English).ca(m3u4u)" tvg-name=" DISCOVERY VELOCITY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44794_dark_360w_270h.png" group-title="USA 🇺🇸", DISCOVERY VELOCITY
+http://supersonictv.live:8080/797792/016921/22078
+#EXTINF:-1 tvg-id="iONTV.uk(m3u4u)" tvg-name=" ION TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117676_dark_360w_270h.png" group-title="USA 🇺🇸", ION TV
+http://supersonictv.live:8080/797792/016921/77472
+#EXTINF:-1 tvg-id="MTV2(English).pr(m3u4u)" tvg-name=" MTV 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="USA 🇺🇸", MTV 2
+http://supersonictv.live:8080/797792/016921/13750
+#EXTINF:-1 tvg-id="ReelzChannel.us(m3u4u)" tvg-name=" Reelz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="USA 🇺🇸", Reelz
+http://supersonictv.live:8080/797792/016921/22142
+#EXTINF:-1 tvg-id="AandE(English).ca(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55097_dark_360w_270h.png" group-title="USA 🇺🇸",A&E
+http://supersonictv.live:8080/797792/016921/21814
+#EXTINF:-1 tvg-id="AandE.us(m3u4u)" tvg-name="A&E east" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="USA 🇺🇸",A&E east
+http://supersonictv.live:8080/797792/016921/22040
+#EXTINF:-1 tvg-id="ABCNationalFeed(Pacific).us(m3u4u)" tvg-name="Abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png" group-title="USA 🇺🇸;Paboo",Abc
+http://supersonictv.live:8080/797792/016921/22041
+#EXTINF:-1 tvg-id="WEtv.us(m3u4u)" tvg-name="Absolute Reality by WE tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="USA 🇺🇸",Absolute Reality by WE tv
+http://supersonictv.live:8080/797792/016921/77254
+#EXTINF:-1 tvg-id="AdultSwim(English).ca(m3u4u)" tvg-name="ADULT SWIM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92160_dark_360w_270h.png" group-title="USA 🇺🇸",ADULT SWIM
+http://supersonictv.live:8080/797792/016921/22043
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Afro TV" tvg-logo="https://logos.flamingtext.com/Name-Logos/Afro-design-china-name.png" group-title="USA 🇺🇸",Afro TV
+http://supersonictv.live:8080/797792/016921/86100
+#EXTINF:-1 tvg-id="AMCplus.us(m3u4u)" tvg-name="AMC+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114759_dark_360w_270h.png" group-title="USA 🇺🇸",AMC+
+http://supersonictv.live:8080/797792/016921/77252
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us(m3u4u)" tvg-name="American Heroes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="USA 🇺🇸",American Heroes
+http://supersonictv.live:8080/797792/016921/22044
+#EXTINF:-1 tvg-id="AnimalPlanet.us(m3u4u)" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="USA 🇺🇸",Animal Planet
+http://supersonictv.live:8080/797792/016921/22045
+#EXTINF:-1 tvg-id="AnimalPlanet(English).de(m3u4u)" tvg-name="Animal Planet West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20707_dark_360w_270h.png" group-title="USA 🇺🇸",Animal Planet West 
+http://supersonictv.live:8080/797792/016921/22046
+#EXTINF:-1 tvg-id="AXSTV.us(m3u4u)" tvg-name="AXS TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="USA 🇺🇸",AXS TV
+http://supersonictv.live:8080/797792/016921/22050
+#EXTINF:-1 tvg-id="BabyFirstTV.us(m3u4u)" tvg-name="Baby First " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50338_dark_360w_270h.png" group-title="USA 🇺🇸",Baby First 
+http://supersonictv.live:8080/797792/016921/21789
+#EXTINF:-1 tvg-id="BBCAmerica.us(m3u4u)" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="USA 🇺🇸",BBC America
+http://supersonictv.live:8080/797792/016921/22051
+#EXTINF:-1 tvg-id="GRANDSTAND(src04).za(m3u4u)" tvg-name="Beach TV - Myrtle Beach - Grand Strand" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="USA 🇺🇸",Beach TV - Myrtle Beach - Grand Strand
+http://supersonictv.live:8080/797792/016921/77548
+#EXTINF:-1 tvg-id="AboriginalPeoplesTelevisionNetwork(North)(English-French-UnknownLanguage(cr)-Inuktitut).ca(m3u4u)" tvg-name="Beach TV Key West - Florida Keys" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61998_dark_360w_270h.png" group-title="USA 🇺🇸",Beach TV Key West - Florida Keys
+http://supersonictv.live:8080/797792/016921/77550
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Beach TV Panama City" tvg-logo="https://www.kindpng.com/picc/m/284-2846353_panama-city-beach-condos-alternate-logo-panama-city.png" group-title="USA 🇺🇸",Beach TV Panama City
+http://supersonictv.live:8080/797792/016921/77551
+#EXTINF:-1 tvg-id="BET.us(m3u4u)" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="USA 🇺🇸",BET
+http://supersonictv.live:8080/797792/016921/22052
+#EXTINF:-1 tvg-id="BETGOSPEL.us(m3u4u)" tvg-name="BET Gospel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16484_dark_360w_270h.png" group-title="USA 🇺🇸",BET Gospel
+http://supersonictv.live:8080/797792/016921/22056
+#EXTINF:-1 tvg-id="BETHer.us(m3u4u)" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="USA 🇺🇸",BET HER
+http://supersonictv.live:8080/797792/016921/22053
+#EXTINF:-1 tvg-id="BETJams.us(m3u4u)" tvg-name="BET Jams" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30419_dark_360w_270h.png" group-title="USA 🇺🇸",BET Jams
+http://supersonictv.live:8080/797792/016921/22054
+#EXTINF:-1 tvg-id="BETSoul.us(m3u4u)" tvg-name="BET SOUL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18718_dark_360w_270h.png" group-title="USA 🇺🇸",BET SOUL
+http://supersonictv.live:8080/797792/016921/22055
+#EXTINF:-1 tvg-id="BET(Pacific).us(m3u4u)" tvg-name="BET West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63236_dark_360w_270h.png" group-title="USA 🇺🇸",BET West
+http://supersonictv.live:8080/797792/016921/22057
+#EXTINF:-1 tvg-id="Boomerang.us(m3u4u)" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="USA 🇺🇸",Boomerang
+http://supersonictv.live:8080/797792/016921/21791
+#EXTINF:-1 tvg-id="Bravo.us(m3u4u)" tvg-name="Bravo West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="USA 🇺🇸",Bravo West 
+http://supersonictv.live:8080/797792/016921/22060
+#EXTINF:-1 tvg-id="CarsTV.us(m3u4u)" tvg-name="Cars TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81270_dark_360w_270h.png" group-title="USA 🇺🇸",Cars TV
+http://supersonictv.live:8080/797792/016921/47729
+#EXTINF:-1 tvg-id="CartoonNetwork.us(m3u4u)" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="USA 🇺🇸",Cartoon Network
+http://supersonictv.live:8080/797792/016921/21792
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca(m3u4u)" tvg-name="Cartoon Network Pacific" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75456_dark_360w_270h.png" group-title="USA 🇺🇸",Cartoon Network Pacific
+http://supersonictv.live:8080/797792/016921/21794
+#EXTINF:-1 tvg-id="CBSESP.mx(m3u4u)" tvg-name="CBS " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="USA 🇺🇸;Paboo",CBS 
+http://supersonictv.live:8080/797792/016921/22062
+#EXTINF:-1 tvg-id="Cinemax.us(m3u4u)" tvg-name="CINEMAX 5 STARMAX " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX 5 STARMAX 
+http://supersonictv.live:8080/797792/016921/22878
+#EXTINF:-1 tvg-id="ActionMAX.us(m3u4u)" tvg-name="CINEMAX ACTIONMAX " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59948_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX ACTIONMAX 
+http://supersonictv.live:8080/797792/016921/22881
+#EXTINF:-1 tvg-id="ActionMAX(Pacific)(English).pr(m3u4u)" tvg-name="CINEMAX ACTIONMAX WEST " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18433_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX ACTIONMAX WEST 
+http://supersonictv.live:8080/797792/016921/61185
+#EXTINF:-1 tvg-id="Cinemax(Pacific).us(m3u4u)" tvg-name="Cinemax East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="USA 🇺🇸",Cinemax East 
+http://supersonictv.live:8080/797792/016921/22879
+#EXTINF:-1 tvg-id="MoreMax(Pacific).us(m3u4u)" tvg-name="CINEMAX MORE MAX " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59373_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX MORE MAX 
+http://supersonictv.live:8080/797792/016921/22882
+#EXTINF:-1 tvg-id="MoreMAX.us(m3u4u)" tvg-name="CINEMAX MOREMAX WEST " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX MOREMAX WEST 
+http://supersonictv.live:8080/797792/016921/61186
+#EXTINF:-1 tvg-id="MovieMax.us(m3u4u)" tvg-name="CINEMAX MOVIE MAX " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59963_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX MOVIE MAX 
+http://supersonictv.live:8080/797792/016921/22883
+#EXTINF:-1 tvg-id="OuterMAX.us(m3u4u)" tvg-name="CINEMAX OUTER MAX " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59952_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX OUTER MAX 
+http://supersonictv.live:8080/797792/016921/22884
+#EXTINF:-1 tvg-id="ThrillerMAX.us(m3u4u)" tvg-name="CINEMAX THRILLER MAX " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX THRILLER MAX 
+http://supersonictv.live:8080/797792/016921/22885
+#EXTINF:-1 tvg-id="ThrillerMAX(Pacific).us(m3u4u)" tvg-name="CINEMAX THRILLERMAX WEST " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18435_dark_360w_270h.png" group-title="USA 🇺🇸",CINEMAX THRILLERMAX WEST 
+http://supersonictv.live:8080/797792/016921/61187
+#EXTINF:-1 tvg-id="Cinemax.us(m3u4u)" tvg-name="Cinemax West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="USA 🇺🇸",Cinemax West 
+http://supersonictv.live:8080/797792/016921/22880
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Circle" tvg-logo="" group-title="USA 🇺🇸",Circle
+http://supersonictv.live:8080/797792/016921/83349
+#EXTINF:-1 tvg-id="CleoTV.us(m3u4u)" tvg-name="Cleo TV  " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110289_dark_360w_270h.png" group-title="USA 🇺🇸",Cleo TV  
+http://supersonictv.live:8080/797792/016921/86101
+#EXTINF:-1 tvg-id="CMT.us(m3u4u)" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="USA 🇺🇸",CMT
+http://supersonictv.live:8080/797792/016921/22063
+#EXTINF:-1 tvg-id="CNBC.us(m3u4u)" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="USA 🇺🇸",CNBC
+http://supersonictv.live:8080/797792/016921/22064
+#EXTINF:-1 tvg-id="ComedyCentral(Pacific).us(m3u4u)" tvg-name="Comedy Central East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62420_dark_360w_270h.png" group-title="USA 🇺🇸",Comedy Central East 
+http://supersonictv.live:8080/797792/016921/22065
+#EXTINF:-1 tvg-id="ComedyTV.us(m3u4u)" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="USA 🇺🇸",Comedy TV
+http://supersonictv.live:8080/797792/016921/47730
+#EXTINF:-1 tvg-id="Comet.us(m3u4u)" tvg-name="Comet " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="USA 🇺🇸",Comet 
+http://supersonictv.live:8080/797792/016921/22066
+#EXTINF:-1 tvg-id="CookingChannel.us(m3u4u)" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="USA 🇺🇸",Cooking Channel
+http://supersonictv.live:8080/797792/016921/22067
+#EXTINF:-1 tvg-id="CourtTV.uk(m3u4u)" tvg-name="COURT TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117160_dark_360w_270h.png" group-title="USA 🇺🇸",COURT TV
+http://supersonictv.live:8080/797792/016921/22068
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="COWBOY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/The_Cowboy_Channel.png" group-title="USA 🇺🇸",COWBOY CHANNEL
+http://supersonictv.live:8080/797792/016921/22069
+#EXTINF:-1 tvg-id="COZITV.us(m3u4u)" tvg-name="COZI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="USA 🇺🇸",COZI TV
+http://supersonictv.live:8080/797792/016921/22070
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us(m3u4u)" tvg-name="Crime & Investigation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="USA 🇺🇸",Crime & Investigation
+http://supersonictv.live:8080/797792/016921/22071
+#EXTINF:-1 tvg-id="DestinationAmerica.us(m3u4u)" tvg-name="Destination America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png" group-title="USA 🇺🇸",Destination America
+http://supersonictv.live:8080/797792/016921/22073
+#EXTINF:-1 tvg-id="DiscoveryChannel.us(m3u4u)" tvg-name="Discovery Channel " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA 🇺🇸",Discovery Channel 
+http://supersonictv.live:8080/797792/016921/22074
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us(m3u4u)" tvg-name="Discovery Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="USA 🇺🇸",Discovery Family
+http://supersonictv.live:8080/797792/016921/22076
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us(m3u4u)" tvg-name="DISCOVERY ID EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="USA 🇺🇸",DISCOVERY ID EAST
+http://supersonictv.live:8080/797792/016921/22110
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us(m3u4u)" tvg-name="Discovery Life " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="USA 🇺🇸",Discovery Life 
+http://supersonictv.live:8080/797792/016921/22075
+#EXTINF:-1 tvg-id="ScienceChannel.us(m3u4u)" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57390_dark_360w_270h.png" group-title="USA 🇺🇸",Discovery Science
+http://supersonictv.live:8080/797792/016921/22077
+#EXTINF:-1 tvg-id="DiscoveryChannel.us(m3u4u)" tvg-name="Discovery West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA 🇺🇸",Discovery West 
+http://supersonictv.live:8080/797792/016921/22079
+#EXTINF:-1 tvg-id="DisneyChannel.us(m3u4u)" tvg-name="Disney Channel East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="USA 🇺🇸",Disney Channel East
+http://supersonictv.live:8080/797792/016921/21795
+#EXTINF:-1 tvg-id="DisneyChannel(Pacific).us(m3u4u)" tvg-name="Disney Channel Paficic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="USA 🇺🇸",Disney Channel Paficic
+http://supersonictv.live:8080/797792/016921/21797
+#EXTINF:-1 tvg-id="DisneyJunior.us(m3u4u)" tvg-name="Disney Junior " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="USA 🇺🇸",Disney Junior 
+http://supersonictv.live:8080/797792/016921/21798
+#EXTINF:-1 tvg-id="DisneyJunior(Pacific).us(m3u4u)" tvg-name="Disney Junior Pacific" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74885_dark_360w_270h.png" group-title="USA 🇺🇸",Disney Junior Pacific
+http://supersonictv.live:8080/797792/016921/21800
+#EXTINF:-1 tvg-id="DisneyJunior.us(m3u4u)" tvg-name="Disney Junior West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="USA 🇺🇸",Disney Junior West 
+http://supersonictv.live:8080/797792/016921/21799
+#EXTINF:-1 tvg-id="DisneyXD.us(m3u4u)" tvg-name="Disney XD " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="USA 🇺🇸",Disney XD 
+http://supersonictv.live:8080/797792/016921/21801
+#EXTINF:-1 tvg-id="DisneyXD(Pacific).us(m3u4u)" tvg-name="Disney XD Pacific" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60006_dark_360w_270h.png" group-title="USA 🇺🇸",Disney XD Pacific
+http://supersonictv.live:8080/797792/016921/21803
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DIY Network " tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" group-title="USA 🇺🇸",DIY Network 
+http://supersonictv.live:8080/797792/016921/22080
+#EXTINF:-1 tvg-id="DOGTV.us(m3u4u)" tvg-name="Dog TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82446_dark_360w_270h.png" group-title="USA 🇺🇸",Dog TV
+http://supersonictv.live:8080/797792/016921/47732
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us(m3u4u)" tvg-name="E! " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" group-title="USA 🇺🇸",E! 
+http://supersonictv.live:8080/797792/016921/22081
+#EXTINF:-1 tvg-id="EEntertainmentTelevision(Pacific).us(m3u4u)" tvg-name="E! West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17561_dark_360w_270h.png" group-title="USA 🇺🇸",E! West 
+http://supersonictv.live:8080/797792/016921/22082
+#EXTINF:-1 tvg-id="MGMplus(East).us(m3u4u)" tvg-name="Epix " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65669_dark_360w_270h.png" group-title="USA 🇺🇸",Epix 
+http://supersonictv.live:8080/797792/016921/22886
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us(m3u4u)" tvg-name="EPIX Drive-In " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68409_dark_360w_270h.png" group-title="USA 🇺🇸",EPIX Drive-In 
+http://supersonictv.live:8080/797792/016921/22888
+#EXTINF:-1 tvg-id="MGMplusHits.us(m3u4u)" tvg-name="Epix Hits " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73075_dark_360w_270h.png" group-title="USA 🇺🇸",Epix Hits 
+http://supersonictv.live:8080/797792/016921/22889
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="EPIX2 " tvg-logo="https://logodix.com/logo/1618615.png" group-title="USA 🇺🇸",EPIX2 
+http://supersonictv.live:8080/797792/016921/22887
+#EXTINF:-1 tvg-id="EWTN(Spanish).us(m3u4u)" tvg-name="EWTN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16350_dark_360w_270h.png" group-title="USA 🇺🇸",EWTN
+http://supersonictv.live:8080/797792/016921/67835
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FETV" tvg-logo="" group-title="USA 🇺🇸",FETV
+http://supersonictv.live:8080/797792/016921/86404
+#EXTINF:-1 tvg-id="FightNetwork(src01).pt(m3u4u)" tvg-name="Fight Network" tvg-logo="https://i.vimeocdn.com/portrait/1944648_640x640" group-title="USA 🇺🇸",Fight Network
+http://supersonictv.live:8080/797792/016921/40397
+#EXTINF:-1 tvg-id="FoodNetwork.us(m3u4u)" tvg-name="Food Network East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="USA 🇺🇸",Food Network East 
+http://supersonictv.live:8080/797792/016921/22084
+#EXTINF:-1 tvg-id="FoodNetwork(Pacific).us(m3u4u)" tvg-name="Food Network West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="USA 🇺🇸",Food Network West 
+http://supersonictv.live:8080/797792/016921/22085
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fox " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Fox_Sports_Networks.svg/1200px-Fox_Sports_Networks.svg.png" group-title="USA 🇺🇸,Paboo",Fox 
+http://supersonictv.live:8080/797792/016921/22086
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fox Life Latin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="USA 🇺🇸",Fox Life Latin
+http://supersonictv.live:8080/797792/016921/22087
+#EXTINF:-1 tvg-id="Freeform(East)(src01).us(m3u4u)" tvg-name="Freeform " tvg-logo="" group-title="USA 🇺🇸",Freeform 
+http://supersonictv.live:8080/797792/016921/21804
+#EXTINF:-1 tvg-id="Freeform.us(m3u4u)" tvg-name="FREEFORM WEST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="USA 🇺🇸",FREEFORM WEST
+http://supersonictv.live:8080/797792/016921/21805
+#EXTINF:-1 tvg-id="Fuse.us(m3u4u)" tvg-name="Fuse TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="USA 🇺🇸",Fuse TV
+http://supersonictv.live:8080/797792/016921/22089
+#EXTINF:-1 tvg-id="Fuse.us(m3u4u)" tvg-name="Fusion" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="USA 🇺🇸",Fusion
+http://supersonictv.live:8080/797792/016921/22090
+#EXTINF:-1 tvg-id="FX(East)(src01).us(m3u4u)" tvg-name="FX East" tvg-logo="http://epg4you.com/logos/fx.png" group-title="USA 🇺🇸",FX East
+http://supersonictv.live:8080/797792/016921/22091
+#EXTINF:-1 tvg-id="FX.us(m3u4u)" tvg-name="FX West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="USA 🇺🇸",FX West 
+http://supersonictv.live:8080/797792/016921/22092
+#EXTINF:-1 tvg-id="FXM.us(m3u4u)" tvg-name="FXM " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14988_dark_360w_270h.png" group-title="USA 🇺🇸",FXM 
+http://supersonictv.live:8080/797792/016921/22093
+#EXTINF:-1 tvg-id="FXX.us(m3u4u)" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66379_dark_360w_270h.png" group-title="USA 🇺🇸",FXX
+http://supersonictv.live:8080/797792/016921/22095
+#EXTINF:-1 tvg-id="FX(East)(src01).us(m3u4u)" tvg-name="FXX East " tvg-logo="http://epg4you.com/logos/fxx.png" group-title="USA 🇺🇸",FXX East 
+http://supersonictv.live:8080/797792/016921/22094
+#EXTINF:-1 tvg-id="FYI.us(m3u4u)" tvg-name="FYI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="USA 🇺🇸",FYI
+http://supersonictv.live:8080/797792/016921/22096
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Galavision" tvg-logo="" group-title="USA 🇺🇸",Galavision
+http://supersonictv.live:8080/797792/016921/22097
+#EXTINF:-1 tvg-id="GameShowNetwork.us(m3u4u)" tvg-name="Game Show Network " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="USA 🇺🇸",Game Show Network 
+http://supersonictv.live:8080/797792/016921/22098
+#EXTINF:-1 tvg-id="get.us(m3u4u)" tvg-name="GET TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="USA 🇺🇸",GET TV
+http://supersonictv.live:8080/797792/016921/22099
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Great American Country" tvg-logo="https://2.bp.blogspot.com/-6cUjTs0ifGs/Ukob__xwRpI/AAAAAAAAcHo/M74JeQQm60s/s376/Great+American+Country+logo+2013.png" group-title="USA 🇺🇸",Great American Country
+http://supersonictv.live:8080/797792/016921/77552
+#EXTINF:-1 tvg-id="Grit.us(m3u4u)" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="USA 🇺🇸",Grit TV
+http://supersonictv.live:8080/797792/016921/22100
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GSN " tvg-logo="https://static01.nyt.com/images/2012/03/21/business/media/gsn-logo-decoder/gsn-logo-decoder-articleInline.jpg" group-title="USA 🇺🇸",GSN 
+http://supersonictv.live:8080/797792/016921/47733
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GUSTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/1200px-Gusto_logo.svg.png" group-title="USA 🇺🇸",GUSTO TV
+http://supersonictv.live:8080/797792/016921/77558
+#EXTINF:-1 tvg-id="HallmarkChannel(Pacific).us(m3u4u)" tvg-name="Hallmark Channel East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="USA 🇺🇸",Hallmark Channel East
+http://supersonictv.live:8080/797792/016921/22890
+#EXTINF:-1 tvg-id="HallmarkChannel.us(m3u4u)" tvg-name="Hallmark Channel EAST " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="USA 🇺🇸",Hallmark Channel EAST 
+http://supersonictv.live:8080/797792/016921/22891
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Hallmark Drama " tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" group-title="USA 🇺🇸",Hallmark Drama 
+http://supersonictv.live:8080/797792/016921/22892
+#EXTINF:-1 tvg-id="HallmarkMystery(Pacific).us(m3u4u)" tvg-name="Hallmark Movies & Mysteries East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="USA 🇺🇸",Hallmark Movies & Mysteries East
+http://supersonictv.live:8080/797792/016921/22893
+#EXTINF:-1 tvg-id="HBO2.us(m3u4u)" tvg-name="HBO 2 East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="USA 🇺🇸",HBO 2 East 
+http://supersonictv.live:8080/797792/016921/22896
+#EXTINF:-1 tvg-id="HBOComedy(Pacific).us(m3u4u)" tvg-name="HBO Comedy " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="USA 🇺🇸",HBO Comedy 
+http://supersonictv.live:8080/797792/016921/22897
+#EXTINF:-1 tvg-id="HBO(East).us(m3u4u)" tvg-name="HBO East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19548_dark_360w_270h.png" group-title="USA 🇺🇸",HBO East 
+http://supersonictv.live:8080/797792/016921/22894
+#EXTINF:-1 tvg-id="HBOFamily(Pacific).us(m3u4u)" tvg-name="HBO Family " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59357_dark_360w_270h.png" group-title="USA 🇺🇸",HBO Family 
+http://supersonictv.live:8080/797792/016921/22898
+#EXTINF:-1 tvg-id="HBO(Pacific).us(m3u4u)" tvg-name="HBO Pacific " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19548_dark_360w_270h.png" group-title="USA 🇺🇸",HBO Pacific 
+http://supersonictv.live:8080/797792/016921/22899
+#EXTINF:-1 tvg-id="HBOSignature(Pacific).us(m3u4u)" tvg-name="HBO Signature " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59363_dark_360w_270h.png" group-title="USA 🇺🇸",HBO Signature 
+http://supersonictv.live:8080/797792/016921/22900
+#EXTINF:-1 tvg-id="HBO(West).us(m3u4u)" tvg-name="HBO West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19548_dark_360w_270h.png" group-title="USA 🇺🇸",HBO West 
+http://supersonictv.live:8080/797792/016921/22895
+#EXTINF:-1 tvg-id="HBOZone.us(m3u4u)" tvg-name="HBO Zone " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59845_dark_360w_270h.png" group-title="USA 🇺🇸",HBO Zone 
+http://supersonictv.live:8080/797792/016921/22901
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Hells Kitchen" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hells-kitchen1.jpg" group-title="USA 🇺🇸",Hells Kitchen
+http://supersonictv.live:8080/797792/016921/86102
+#EXTINF:-1 tvg-id="HeroesandIconsNetwork.us(m3u4u)" tvg-name="Heroes & Icons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90401_dark_360w_270h.png" group-title="USA 🇺🇸",Heroes & Icons
+http://supersonictv.live:8080/797792/016921/22102
+#EXTINF:-1 tvg-id="HGTV.us(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="USA 🇺🇸",HGTV
+http://supersonictv.live:8080/797792/016921/22101
+#EXTINF:-1 tvg-id="HGTV.us(m3u4u)" tvg-name="HGTV West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="USA 🇺🇸",HGTV West 
+http://supersonictv.live:8080/797792/016921/22103
+#EXTINF:-1 tvg-id="History.us(m3u4u)" tvg-name="History " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="USA 🇺🇸",History 
+http://supersonictv.live:8080/797792/016921/22104
+#EXTINF:-1 tvg-id="HLN.us(m3u4u)" tvg-name="HLN " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="USA 🇺🇸",HLN 
+http://supersonictv.live:8080/797792/016921/22107
+#EXTINF:-1 tvg-id="HSN.us(m3u4u)" tvg-name="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="USA 🇺🇸",HSN
+http://supersonictv.live:8080/797792/016921/78405
+#EXTINF:-1 tvg-id="HSN2.us(m3u4u)" tvg-name="HSN " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10270_dark_360w_270h.png" group-title="USA 🇺🇸",HSN 
+http://supersonictv.live:8080/797792/016921/78406
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Hunt Channel" tvg-logo="" group-title="USA 🇺🇸",Hunt Channel
+http://supersonictv.live:8080/797792/016921/47734
+#EXTINF:-1 tvg-id="IFC.us(m3u4u)" tvg-name="IFC " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="USA 🇺🇸",IFC 
+http://supersonictv.live:8080/797792/016921/22108
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="INDIEPLEX " tvg-logo="https://www.dropbox.com/s/1ecr86uuu0y218w/indieplex.png?dl=1" group-title="USA 🇺🇸",INDIEPLEX 
+http://supersonictv.live:8080/797792/016921/22903
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Info Wars" tvg-logo="https://www.dailydot.com/wp-content/uploads/2018/07/infowars-logo.png" group-title="USA 🇺🇸",Info Wars
+http://supersonictv.live:8080/797792/016921/47735
+#EXTINF:-1 tvg-id="INSP.us(m3u4u)" tvg-name="INSP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="USA 🇺🇸",INSP
+http://supersonictv.live:8080/797792/016921/22109
+#EXTINF:-1 tvg-id="DiscoveryChannel(Pacific).us(m3u4u)" tvg-name="Investigation Discovery West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA 🇺🇸",Investigation Discovery West 
+http://supersonictv.live:8080/797792/016921/22111
+#EXTINF:-1 tvg-id="JusticeCentral.us(m3u4u)" tvg-name="JUSTICE CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79670_dark_360w_270h.png" group-title="USA 🇺🇸",JUSTICE CENTRAL
+http://supersonictv.live:8080/797792/016921/22112
+#EXTINF:-1 tvg-id="Laff.us(m3u4u)" tvg-name="LAFF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92091_dark_360w_270h.png" group-title="USA 🇺🇸",LAFF
+http://supersonictv.live:8080/797792/016921/22113
+#EXTINF:-1 tvg-id="LawandCrime.us(m3u4u)" tvg-name="Law And Crime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109553_dark_360w_270h.png" group-title="USA 🇺🇸",Law And Crime
+http://supersonictv.live:8080/797792/016921/22114
+#EXTINF:-1 tvg-id="Lifetime.us(m3u4u)" tvg-name="Lifetime " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="USA 🇺🇸",Lifetime 
+http://supersonictv.live:8080/797792/016921/22115
+#EXTINF:-1 tvg-id="Lifetime.us(m3u4u)" tvg-name="Lifetime Movie Network East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="USA 🇺🇸",Lifetime Movie Network East 
+http://supersonictv.live:8080/797792/016921/22904
+#EXTINF:-1 tvg-id="LifetimeRealWomen.us(m3u4u)" tvg-name="Lifetime Real Women" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29612_dark_360w_270h.png" group-title="USA 🇺🇸",Lifetime Real Women
+http://supersonictv.live:8080/797792/016921/47736
+#EXTINF:-1 tvg-id="Logo.us(m3u4u)" tvg-name="LOGO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="USA 🇺🇸",LOGO
+http://supersonictv.live:8080/797792/016921/22116
+#EXTINF:-1 tvg-id="MavTV.us(m3u4u)" tvg-name="MAVTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61036_dark_360w_270h.png" group-title="USA 🇺🇸",MAVTV
+http://supersonictv.live:8080/797792/016921/22117
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ME TV (KYAZ)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/metv.png" group-title="USA 🇺🇸",ME TV (KYAZ)
+http://supersonictv.live:8080/797792/016921/22118
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Me TV Detroit" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/metv.png" group-title="USA 🇺🇸",Me TV Detroit
+http://supersonictv.live:8080/797792/016921/83348
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Me TV New York WJLPDT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/metv.png" group-title="USA 🇺🇸",Me TV New York WJLPDT
+http://supersonictv.live:8080/797792/016921/83345
+#EXTINF:-1 tvg-id="MeTVNetwork.us(m3u4u)" tvg-name="Me TV West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="USA 🇺🇸",Me TV West
+http://supersonictv.live:8080/797792/016921/83346
+#EXTINF:-1 tvg-id="MGMplus.us(m3u4u)" tvg-name="MGM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png" group-title="USA 🇺🇸",MGM
+http://supersonictv.live:8080/797792/016921/77557
+#EXTINF:-1 tvg-id="MilitaryHistoryChannel.us(m3u4u)" tvg-name="Military History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48999_dark_360w_270h.png" group-title="USA 🇺🇸",Military History
+http://supersonictv.live:8080/797792/016921/86202
+#EXTINF:-1 tvg-id="MOTORTREND.us(m3u4u)" tvg-name="MotorTrend " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="USA 🇺🇸",MotorTrend 
+http://supersonictv.live:8080/797792/016921/22119
+#EXTINF:-1 tvg-id="MoviePlex.us(m3u4u)" tvg-name="MOVIEPLEX  " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15295_dark_360w_270h.png" group-title="USA 🇺🇸",MOVIEPLEX  
+http://supersonictv.live:8080/797792/016921/22905
+#EXTINF:-1 tvg-id="MTV.uk(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" group-title="USA 🇺🇸",MTV
+http://supersonictv.live:8080/797792/016921/13754
+#EXTINF:-1 tvg-id="MTV.us(m3u4u)" tvg-name="MTV " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA 🇺🇸",MTV 
+http://supersonictv.live:8080/797792/016921/22120
+#EXTINF:-1 tvg-id="MTVBase(src01).uk(m3u4u)" tvg-name="MTV Base" tvg-logo="" group-title="USA 🇺🇸",MTV Base
+http://supersonictv.live:8080/797792/016921/13755
+#EXTINF:-1 tvg-id="MTVClassic(src01).uk(m3u4u)" tvg-name="MTV Classic" tvg-logo="" group-title="USA 🇺🇸",MTV Classic
+http://supersonictv.live:8080/797792/016921/13756
+#EXTINF:-1 tvg-id="MTVClassic.us(m3u4u)" tvg-name="MTV Classic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="USA 🇺🇸",MTV Classic
+http://supersonictv.live:8080/797792/016921/13751
+#EXTINF:-1 tvg-id="MTVDance(src01).si(m3u4u)" tvg-name="MTV Dance" tvg-logo="" group-title="USA 🇺🇸",MTV Dance
+http://supersonictv.live:8080/797792/016921/13757
+#EXTINF:-1 tvg-id="MTV.uk(m3u4u)" tvg-name="MTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" group-title="USA 🇺🇸",MTV HD
+http://supersonictv.live:8080/797792/016921/13758
+#EXTINF:-1 tvg-id="MTVHits.uk(m3u4u)" tvg-name="MTV Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24214_dark_360w_270h.png" group-title="USA 🇺🇸",MTV Hits
+http://supersonictv.live:8080/797792/016921/13759
+#EXTINF:-1 tvg-id="MTVLIVE.us(m3u4u)" tvg-name="MTV Live" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png" group-title="USA 🇺🇸",MTV Live
+http://supersonictv.live:8080/797792/016921/13752
+#EXTINF:-1 tvg-id="MTVMusic.uk(m3u4u)" tvg-name="MTV Music" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58695_dark_360w_270h.png" group-title="USA 🇺🇸",MTV Music
+http://supersonictv.live:8080/797792/016921/13760
+#EXTINF:-1 tvg-id="mtvU.us(m3u4u)" tvg-name="MTV U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44228_dark_360w_270h.png" group-title="USA 🇺🇸",MTV U
+http://supersonictv.live:8080/797792/016921/13753
+#EXTINF:-1 tvg-id="NASATV.us(m3u4u)" tvg-name="NASA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12553_dark_360w_270h.png" group-title="USA 🇺🇸",NASA TV
+http://supersonictv.live:8080/797792/016921/22121
+#EXTINF:-1 tvg-id="NationalGeographicWild.us(m3u4u)" tvg-name="Nat Geo WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67331_dark_360w_270h.png" group-title="USA 🇺🇸",Nat Geo WILD
+http://supersonictv.live:8080/797792/016921/22122
+#EXTINF:-1 tvg-id="ABCNationalFeed(Pacific).us(m3u4u)" tvg-name="National Geographic East " tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="USA 🇺🇸",National Geographic East 
+http://supersonictv.live:8080/797792/016921/22123
+#EXTINF:-1 tvg-id="NationalGeographic(Pacific).us(m3u4u)" tvg-name="National Geographic People" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="USA 🇺🇸",National Geographic People
+http://supersonictv.live:8080/797792/016921/47738
+#EXTINF:-1 tvg-id="NationalGeographicUSA.us(m3u4u)" tvg-name="National Geographic West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24959_dark_360w_270h.png" group-title="USA 🇺🇸",National Geographic West 
+http://supersonictv.live:8080/797792/016921/22124
+#EXTINF:-1 tvg-id="NationalGeographicWild.us(m3u4u)" tvg-name="National Geographic Wild East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67331_dark_360w_270h.png" group-title="USA 🇺🇸",National Geographic Wild East 
+http://supersonictv.live:8080/797792/016921/22125
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NBC " tvg-logo="" group-title="USA 🇺🇸,Paboo",NBC 
+http://supersonictv.live:8080/797792/016921/22126
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Neon" tvg-logo="" group-title="USA 🇺🇸",Neon
+http://supersonictv.live:8080/797792/016921/22127
+#EXTINF:-1 tvg-id="USANetwork(East)(src01).us(m3u4u)" tvg-name="Network East " tvg-logo="http://epg4you.com/logos/usanetwork.png" group-title="USA 🇺🇸",Network East 
+http://supersonictv.live:8080/797792/016921/22174
+#EXTINF:-1 tvg-id="USANetwork(Pacific).us(m3u4u)" tvg-name="Network Pacific" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58452_dark_360w_270h.png" group-title="USA 🇺🇸",Network Pacific
+http://supersonictv.live:8080/797792/016921/22176
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Network West " tvg-logo="http://epg4you.com/logos/usanetwork.png" group-title="USA 🇺🇸",Network West 
+http://supersonictv.live:8080/797792/016921/22129
+#EXTINF:-1 tvg-id="NickJr.us(m3u4u)" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="USA 🇺🇸",NICK JR
+http://supersonictv.live:8080/797792/016921/21806
+#EXTINF:-1 tvg-id="Nickelodeon.us(m3u4u)" tvg-name="Nickelodeon " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="USA 🇺🇸",Nickelodeon 
+http://supersonictv.live:8080/797792/016921/21808
+#EXTINF:-1 tvg-id="Nicktoons.us(m3u4u)" tvg-name="NickToons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="USA 🇺🇸",NickToons
+http://supersonictv.live:8080/797792/016921/21809
+#EXTINF:-1 tvg-id="OutdoorChannel.us(m3u4u)" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="USA 🇺🇸",Outdoor Channel
+http://supersonictv.live:8080/797792/016921/22131
+#EXTINF:-1 tvg-id="OutsideTelevision.us(m3u4u)" tvg-name="Outside TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80651_dark_360w_270h.png" group-title="USA 🇺🇸",Outside TV
+http://supersonictv.live:8080/797792/016921/22132
+#EXTINF:-1 tvg-id="Ovation.us(m3u4u)" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="USA 🇺🇸",Ovation
+http://supersonictv.live:8080/797792/016921/22133
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us(m3u4u)" tvg-name="OWN East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png" group-title="USA 🇺🇸",OWN East 
+http://supersonictv.live:8080/797792/016921/22130
+#EXTINF:-1 tvg-id="OxygenTrueCrime(Pacific).us(m3u4u)" tvg-name="Oxygen East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="USA 🇺🇸",Oxygen East 
+http://supersonictv.live:8080/797792/016921/22134
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us(m3u4u)" tvg-name="Oxygen West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="USA 🇺🇸",Oxygen West 
+http://supersonictv.live:8080/797792/016921/22135
+#EXTINF:-1 tvg-id="ParamountNetwork.us(m3u4u)" tvg-name="Paramount East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA 🇺🇸",Paramount East 
+http://supersonictv.live:8080/797792/016921/22906
+#EXTINF:-1 tvg-id="WPBS(English).ca(m3u4u)" tvg-name="PBS Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11039_dark_360w_270h.png" group-title="USA 🇺🇸",PBS Kids
+http://supersonictv.live:8080/797792/016921/21810
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us(m3u4u)" tvg-name="People TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122524_dark_360w_270h.png" group-title="USA 🇺🇸",People TV
+http://supersonictv.live:8080/797792/016921/47739
+#EXTINF:-1 tvg-id="POP.us(m3u4u)" tvg-name="POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68796_dark_360w_270h.png" group-title="USA 🇺🇸",POP
+http://supersonictv.live:8080/797792/016921/22139
+#EXTINF:-1 tvg-id="PursuitChannel.us(m3u4u)" tvg-name="Pursuit" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84542_dark_360w_270h.png" group-title="USA 🇺🇸",Pursuit
+http://supersonictv.live:8080/797792/016921/22140
+#EXTINF:-1 tvg-id="QVC2.us(m3u4u)" tvg-name="QVC 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82682_dark_360w_270h.png" group-title="USA 🇺🇸",QVC 2
+http://supersonictv.live:8080/797792/016921/47740
+#EXTINF:-1 tvg-id="RetroPlex.us(m3u4u)" tvg-name="RetroPlex East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65791_dark_360w_270h.png" group-title="USA 🇺🇸",RetroPlex East 
+http://supersonictv.live:8080/797792/016921/47746
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RetroPlex West " tvg-logo="https://www.dropbox.com/s/thz3sycoohs196s/retroplex.png?dl=1" group-title="USA 🇺🇸",RetroPlex West 
+http://supersonictv.live:8080/797792/016921/47747
+#EXTINF:-1 tvg-id="REVOLT.us(m3u4u)" tvg-name="Revolt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83097_dark_360w_270h.png" group-title="USA 🇺🇸",Revolt
+http://supersonictv.live:8080/797792/016921/22143
+#EXTINF:-1 tvg-id="RFDTV.us(m3u4u)" tvg-name="RFD-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63717_dark_360w_270h.png" group-title="USA 🇺🇸",RFD-TV
+http://supersonictv.live:8080/797792/016921/22146
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ride TV" tvg-logo="https://horsesport.com/wp-content/uploads/2018/06/ride-tv-2-1.jpg" group-title="USA 🇺🇸",Ride TV
+http://supersonictv.live:8080/797792/016921/22144
+#EXTINF:-1 tvg-id="Science.us(m3u4u)" tvg-name="Science " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16616_dark_360w_270h.png" group-title="USA 🇺🇸",Science 
+http://supersonictv.live:8080/797792/016921/22145
+#EXTINF:-1 tvg-id="ShortsTV.us(m3u4u)" tvg-name="SHORTS TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67454_dark_360w_270h.png" group-title="USA 🇺🇸",SHORTS TV
+http://supersonictv.live:8080/797792/016921/22147
+#EXTINF:-1 tvg-id="Showtime2.us(m3u4u)" tvg-name="Showtime 2 " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="USA 🇺🇸",Showtime 2 
+http://supersonictv.live:8080/797792/016921/22910
+#EXTINF:-1 tvg-id="Showtime2.us(m3u4u)" tvg-name="Showtime East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="USA 🇺🇸",Showtime East 
+http://supersonictv.live:8080/797792/016921/22908
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us(m3u4u)" tvg-name="Showtime Extreme " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="USA 🇺🇸",Showtime Extreme 
+http://supersonictv.live:8080/797792/016921/22912
+#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us(m3u4u)" tvg-name="Showtime Family Zone " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="USA 🇺🇸",Showtime Family Zone 
+http://supersonictv.live:8080/797792/016921/22913
+#EXTINF:-1 tvg-id="ShowtimeNext.us(m3u4u)" tvg-name="Showtime Next " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25270_dark_360w_270h.png" group-title="USA 🇺🇸",Showtime Next 
+http://supersonictv.live:8080/797792/016921/22914
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us(m3u4u)" tvg-name="Showtime Showcase " tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16153_dark_360w_270h.png" group-title="USA 🇺🇸",Showtime Showcase 
+http://supersonictv.live:8080/797792/016921/22915
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Showtime West " tvg-logo="https://www.dropbox.com/s/o79wcu4qsdt18gi/showtime.png?dl=1" group-title="USA 🇺🇸",Showtime West 
+http://supersonictv.live:8080/797792/016921/22909
+#EXTINF:-1 tvg-id="ShowtimeWomen.us(m3u4u)" tvg-name="Showtime Women " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25272_dark_360w_270h.png" group-title="USA 🇺🇸",Showtime Women 
+http://supersonictv.live:8080/797792/016921/22916
+#EXTINF:-1 tvg-id="SHOxBET.us(m3u4u)" tvg-name="SHOxBET " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20622_dark_360w_270h.png" group-title="USA 🇺🇸",SHOxBET 
+http://supersonictv.live:8080/797792/016921/22911
+#EXTINF:-1 tvg-id="Cinema.us(m3u4u)" tvg-name="Sky Cinema Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="USA 🇺🇸",Sky Cinema Action
+http://supersonictv.live:8080/797792/016921/77462
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk(m3u4u)" tvg-name="Sky Cinema Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24039_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Comedy
+http://supersonictv.live:8080/797792/016921/77463
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk(m3u4u)" tvg-name="Sky Cinema Drama" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24032_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Drama
+http://supersonictv.live:8080/797792/016921/77465
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk(m3u4u)" tvg-name="Sky Cinema Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24040_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Family
+http://supersonictv.live:8080/797792/016921/77466
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk(m3u4u)" tvg-name="Sky Cinema Greats" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24042_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Greats
+http://supersonictv.live:8080/797792/016921/77467
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk(m3u4u)" tvg-name="Sky Cinema Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56141_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Hits
+http://supersonictv.live:8080/797792/016921/77464
+#EXTINF:-1 tvg-id="SkyCinemaSciFiandHorror.uk(m3u4u)" tvg-name="Sky Cinema Horror & Scifi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24041_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Horror & Scifi
+http://supersonictv.live:8080/797792/016921/77469
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk(m3u4u)" tvg-name="Sky Cinema Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21107_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Premier
+http://supersonictv.live:8080/797792/016921/77468
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk(m3u4u)" tvg-name="Sky Cinema Select" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49139_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Select
+http://supersonictv.live:8080/797792/016921/77470
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk(m3u4u)" tvg-name="Sky Cinema Thriller" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56140_dark_360w_270h.png" group-title="USA 🇺🇸",Sky Cinema Thriller
+http://supersonictv.live:8080/797792/016921/77471
+#EXTINF:-1 tvg-id="SmithsonianChannel.uk(m3u4u)" tvg-name="Smithsonian Channel " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110553_dark_360w_270h.png" group-title="USA 🇺🇸",Smithsonian Channel 
+http://supersonictv.live:8080/797792/016921/22148
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SNY" tvg-logo="" group-title="USA 🇺🇸",SNY
+http://supersonictv.live:8080/797792/016921/22150
+#EXTINF:-1 tvg-id="SonyMovieChannel.us(m3u4u)" tvg-name="Sony Movie Channel " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="USA 🇺🇸",Sony Movie Channel 
+http://supersonictv.live:8080/797792/016921/22917
+#EXTINF:-1 tvg-id="SportsmanChannel.us(m3u4u)" tvg-name="SPORTSMAN CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png" group-title="USA 🇺🇸",SPORTSMAN CHANNEL
+http://supersonictv.live:8080/797792/016921/22149
+#EXTINF:-1 tvg-id="StarTV(German).us(m3u4u)" tvg-name="Start TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28551_dark_360w_270h.png" group-title="USA 🇺🇸",Start TV
+http://supersonictv.live:8080/797792/016921/86401
+#EXTINF:-1 tvg-id="StarzCinema.us(m3u4u)" tvg-name="Starz Cinema " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Cinema 
+http://supersonictv.live:8080/797792/016921/22920
+#EXTINF:-1 tvg-id="StarzComedy.us(m3u4u)" tvg-name="Starz Comedy " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Comedy 
+http://supersonictv.live:8080/797792/016921/22921
+#EXTINF:-1 tvg-id="Starz.us(m3u4u)" tvg-name="StarZ East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="USA 🇺🇸",StarZ East 
+http://supersonictv.live:8080/797792/016921/22918
+#EXTINF:-1 tvg-id="StarzEdge.us(m3u4u)" tvg-name="Starz Edge " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Edge 
+http://supersonictv.live:8080/797792/016921/22922
+#EXTINF:-1 tvg-id="StarzEncoreAction.us(m3u4u)" tvg-name="Starz Encore Action " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14871_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Encore Action 
+http://supersonictv.live:8080/797792/016921/22927
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us(m3u4u)" tvg-name="Starz Encore Black " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14870_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Encore Black 
+http://supersonictv.live:8080/797792/016921/22928
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us(m3u4u)" tvg-name="Starz Encore Classic " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Encore Classic 
+http://supersonictv.live:8080/797792/016921/22929
+#EXTINF:-1 tvg-id="StarzEncore(Pacific).us(m3u4u)" tvg-name="Starz Encore East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Encore East 
+http://supersonictv.live:8080/797792/016921/22925
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us(m3u4u)" tvg-name="Starz Encore Family " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102903_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Encore Family 
+http://supersonictv.live:8080/797792/016921/22930
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us(m3u4u)" tvg-name="Starz Encore Suspense " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14766_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Encore Suspense 
+http://supersonictv.live:8080/797792/016921/22931
+#EXTINF:-1 tvg-id="StarzEncore.us(m3u4u)" tvg-name="Starz Encore West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Encore West 
+http://supersonictv.live:8080/797792/016921/22926
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us(m3u4u)" tvg-name="Starz Encore Westerns " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102906_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Encore Westerns 
+http://supersonictv.live:8080/797792/016921/22932
+#EXTINF:-1 tvg-id="StarzinBlack.us(m3u4u)" tvg-name="Starz in Black " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16833_dark_360w_270h.png" group-title="USA 🇺🇸",Starz in Black 
+http://supersonictv.live:8080/797792/016921/22923
+#EXTINF:-1 tvg-id="StarzKids.us(m3u4u)" tvg-name="Starz Kids & Family " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19635_dark_360w_270h.png" group-title="USA 🇺🇸",Starz Kids & Family 
+http://supersonictv.live:8080/797792/016921/22924
+#EXTINF:-1 tvg-id="Starz.us(m3u4u)" tvg-name="Starz West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="USA 🇺🇸",Starz West 
+http://supersonictv.live:8080/797792/016921/22919
+#EXTINF:-1 tvg-id="SundanceTV.us(m3u4u)" tvg-name="Sundance TV " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="USA 🇺🇸",Sundance TV 
+http://supersonictv.live:8080/797792/016921/22152
+#EXTINF:-1 tvg-id="SYFY.us(m3u4u)" tvg-name="Syfy " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="USA 🇺🇸",Syfy 
+http://supersonictv.live:8080/797792/016921/22946
+#EXTINF:-1 tvg-id="Syfy(East)(src01).us(m3u4u)" tvg-name="Syfy East " tvg-logo="http://ems-media-prod.s3.amazonaws.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19.png" group-title="USA 🇺🇸",Syfy East 
+http://supersonictv.live:8080/797792/016921/22947
+#EXTINF:-1 tvg-id="SYFY.us(m3u4u)" tvg-name="Syfy West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="USA 🇺🇸",Syfy West 
+http://supersonictv.live:8080/797792/016921/22948
+#EXTINF:-1 tvg-id="Tastemade.us(m3u4u)" tvg-name="Tastemade " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107076_dark_360w_270h.png" group-title="USA 🇺🇸",Tastemade 
+http://supersonictv.live:8080/797792/016921/22153
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TBD TV" tvg-logo="https://www.wvxu.org/sites/wvxu/files/styles/x_large/public/201702/tbd_logo.png" group-title="USA 🇺🇸",TBD TV
+http://supersonictv.live:8080/797792/016921/47741
+#EXTINF:-1 tvg-id="TBN(src01).uk(m3u4u)" tvg-name="TBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/TBN-Logo.svg/1280px-TBN-Logo.svg.png" group-title="USA 🇺🇸",TBN
+http://supersonictv.live:8080/797792/016921/77555
+#EXTINF:-1 tvg-id="TBS(Pacific).us(m3u4u)" tvg-name="TBS " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58515_dark_360w_270h.png" group-title="USA 🇺🇸",TBS 
+http://supersonictv.live:8080/797792/016921/22154
+#EXTINF:-1 tvg-id="TBS(Pacific).us(m3u4u)" tvg-name="TBS West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58515_dark_360w_270h.png" group-title="USA 🇺🇸",TBS West 
+http://supersonictv.live:8080/797792/016921/22155
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TCM" tvg-logo="https://www.dropbox.com/s/18t7v2es0007d7o/TCM.png?dl=1" group-title="USA 🇺🇸",TCM
+http://supersonictv.live:8080/797792/016921/22156
+#EXTINF:-1 tvg-id="TeenNick.us(m3u4u)" tvg-name="TEEN NICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png" group-title="USA 🇺🇸",TEEN NICK
+http://supersonictv.live:8080/797792/016921/21811
+#EXTINF:-1 tvg-id="TheFilmDetective.us(m3u4u)" tvg-name="The Film Detective" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112484_dark_360w_270h.png" group-title="USA 🇺🇸",The Film Detective
+http://supersonictv.live:8080/797792/016921/47742
+#EXTINF:-1 tvg-id="TLC(Pacific).us(m3u4u)" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA 🇺🇸",TLC
+http://supersonictv.live:8080/797792/016921/22157
+#EXTINF:-1 tvg-id="TLC.us(m3u4u)" tvg-name="TLC West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA 🇺🇸",TLC West
+http://supersonictv.live:8080/797792/016921/22158
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TMZ" tvg-logo="https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png" group-title="USA 🇺🇸",TMZ
+http://supersonictv.live:8080/797792/016921/47743
+#EXTINF:-1 tvg-id="TNT(Pacific).us(m3u4u)" tvg-name="TNT East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42642_dark_360w_270h.png" group-title="USA 🇺🇸",TNT East
+http://supersonictv.live:8080/797792/016921/22159
+#EXTINF:-1 tvg-id="TNT.us(m3u4u)" tvg-name="TNT Pacific" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="USA 🇺🇸",TNT Pacific
+http://supersonictv.live:8080/797792/016921/22160
+#EXTINF:-1 tvg-id="TheTravelChannel.us(m3u4u)" tvg-name="Travel East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="USA 🇺🇸",Travel East 
+http://supersonictv.live:8080/797792/016921/22162
+#EXTINF:-1 tvg-id="truTV.us(m3u4u)" tvg-name="Tru tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="USA 🇺🇸",Tru tv
+http://supersonictv.live:8080/797792/016921/22164
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us(m3u4u)" tvg-name="Turner Classic Movies " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="USA 🇺🇸",Turner Classic Movies 
+http://supersonictv.live:8080/797792/016921/22933
+#EXTINF:-1 tvg-id="TVONE.us(m3u4u)" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="USA 🇺🇸",TV One
+http://supersonictv.live:8080/797792/016921/22166
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVG 2 Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tvg2.png" group-title="USA 🇺🇸",TVG 2 Network
+http://supersonictv.live:8080/797792/016921/22168
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVG Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/1200px-TVG_logo.svg.png" group-title="USA 🇺🇸",TVG Network
+http://supersonictv.live:8080/797792/016921/22167
+#EXTINF:-1 tvg-id="TVLand(Pacific).us(m3u4u)" tvg-name="TVLand " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="USA 🇺🇸",TVLand 
+http://supersonictv.live:8080/797792/016921/22169
+#EXTINF:-1 tvg-id="TheFightNetwork.us(m3u4u)" tvg-name="UFC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89093_dark_360w_270h.png" group-title="USA 🇺🇸",UFC
+http://supersonictv.live:8080/797792/016921/22177
+#EXTINF:-1 tvg-id="UniversalKids.us(m3u4u)" tvg-name="Universal Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47540_dark_360w_270h.png" group-title="USA 🇺🇸",Universal Kids
+http://supersonictv.live:8080/797792/016921/21812
+#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us(m3u4u)" tvg-name="Universo West " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14791_dark_360w_270h.png" group-title="USA 🇺🇸",Universo West 
+http://supersonictv.live:8080/797792/016921/22171
+#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us(m3u4u)" tvg-name="Univision East " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="USA 🇺🇸",Univision East 
+http://supersonictv.live:8080/797792/016921/22173
+#EXTINF:-1 tvg-id="UPtv.us(m3u4u)" tvg-name="UP TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44940_dark_360w_270h.png" group-title="USA 🇺🇸",UP TV
+http://supersonictv.live:8080/797792/016921/47744
+#EXTINF:-1 tvg-id="USANetwork.us(m3u4u)" tvg-name="USA NETWORK WEST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="USA 🇺🇸",USA NETWORK WEST
+http://supersonictv.live:8080/797792/016921/22175
+#EXTINF:-1 tvg-id="QVC.us(m3u4u)" tvg-name="USA QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="USA 🇺🇸",USA QVC
+http://supersonictv.live:8080/797792/016921/22141
+#EXTINF:-1 tvg-id="VH1.us(m3u4u)" tvg-name="VH1 " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="USA 🇺🇸",VH1 
+http://supersonictv.live:8080/797792/016921/22178
+#EXTINF:-1 tvg-id="VH1(Pacific).us(m3u4u)" tvg-name="VH1 CLASSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="USA 🇺🇸",VH1 CLASSIC
+http://supersonictv.live:8080/797792/016921/22179
+#EXTINF:-1 tvg-id="Vice.us(m3u4u)" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="USA 🇺🇸",Vice
+http://supersonictv.live:8080/797792/016921/22180
+#EXTINF:-1 tvg-id="WAPAAmerica(Spanish).us(m3u4u)" tvg-name="Wapa America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63389_dark_360w_270h.png" group-title="USA 🇺🇸",Wapa America
+http://supersonictv.live:8080/797792/016921/22181
+#EXTINF:-1 tvg-id="WEtv(Pacific).us(m3u4u)" tvg-name="WE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="USA 🇺🇸",WE TV
+http://supersonictv.live:8080/797792/016921/22182
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WGN 9 Chicago" tvg-logo="https://content.sportslogos.net/logos/6/221/full/kbzgpcg1efl3ckze0a40g8jjs.png" group-title="USA 🇺🇸",WGN 9 Chicago
+http://supersonictv.live:8080/797792/016921/77553
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WGN AMERICA" tvg-logo="https://www.dropbox.com/s/m1vqlsevv5869ng/wgn%20america.jpg?dl=1" group-title="USA 🇺🇸",WGN AMERICA
+http://supersonictv.live:8080/797792/016921/22184
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WGN TV" tvg-logo="https://x.tribtv.com/slates/wgntv.png" group-title="USA 🇺🇸",WGN TV
+http://supersonictv.live:8080/797792/016921/77554
+#EXTINF:-1 tvg-id="WorldFishingNetwork(US).us(m3u4u)" tvg-name="World Fishing Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64046_dark_360w_270h.png" group-title="USA 🇺🇸",World Fishing Network
+http://supersonictv.live:8080/797792/016921/22183
+#EXTINF:-1 tvg-id="WPIX.us(m3u4u)" tvg-name="WPIX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="USA 🇺🇸",WPIX
+http://supersonictv.live:8080/797792/016921/22186
+#EXTINF:-1 tvg-id="WWENetwork(English).ca(m3u4u)" tvg-name="WWE Network " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png" group-title="USA 🇺🇸",WWE Network 
+http://supersonictv.live:8080/797792/016921/22185
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WWE Network " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/657px-WWE_Logo.svg.png" group-title="USA 🇺🇸",WWE Network 
+http://supersonictv.live:8080/797792/016921/71163
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Z Classic" tvg-logo="https://s2.coinmarketcap.com/static/img/coins/200x200/1447.png" group-title="USA 🇺🇸",Z Classic
+http://supersonictv.live:8080/797792/016921/47745
+#EXTINF:-1 tvg-id="ESPN.us(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="ESPN 🏌️",ESPN
+http://supersonictv.live:8080/797792/016921/22198
+#EXTINF:-1 tvg-id="ESPN2.us(m3u4u)" tvg-name="ESPN 2 " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="ESPN 🏌️",ESPN 2 
+http://supersonictv.live:8080/797792/016921/22199
+#EXTINF:-1 tvg-id="ESPNU.us(m3u4u)" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="ESPN 🏌️",ESPNU
+http://supersonictv.live:8080/797792/016921/22202
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN SEC +" tvg-logo="" group-title="ESPN 🏌️",ESPN SEC +
+http://supersonictv.live:8080/797792/016921/86594
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us(m3u4u)" tvg-name="ESPN Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="ESPN 🏌️",ESPN Deportes
+http://supersonictv.live:8080/797792/016921/22222
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN SEC Network" tvg-logo="" group-title="ESPN 🏌️",ESPN SEC Network
+http://supersonictv.live:8080/797792/016921/22208
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN Baseball Regionals" tvg-logo="" group-title="ESPN 🏌️",ESPN Baseball Regionals
+http://supersonictv.live:8080/797792/016921/22209
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN College Extra 1 " tvg-logo="https://espnpressroom.com/us/files/2015/08/15034102LLU_AFF_FC_White_Bknd.jpg" group-title="ESPN 🏌️",ESPN College Extra 1 
+http://supersonictv.live:8080/797792/016921/22211
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN College Extra 2" tvg-logo="https://espnpressroom.com/us/files/2015/08/15034102LLU_AFF_FC_White_Bknd.jpg" group-title="ESPN 🏌️",ESPN College Extra 2
+http://supersonictv.live:8080/797792/016921/22212
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN College Extra 3 " tvg-logo="https://espnpressroom.com/us/files/2015/08/15034102LLU_AFF_FC_White_Bknd.jpg" group-title="ESPN 🏌️",ESPN College Extra 3 
+http://supersonictv.live:8080/797792/016921/22213
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN College Extra 4 " tvg-logo="https://espnpressroom.com/us/files/2015/08/15034102LLU_AFF_FC_White_Bknd.jpg" group-title="ESPN 🏌️",ESPN College Extra 4 
+http://supersonictv.live:8080/797792/016921/22214
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN College Extra 5 " tvg-logo="https://espnpressroom.com/us/files/2015/08/15034102LLU_AFF_FC_White_Bknd.jpg" group-title="ESPN 🏌️",ESPN College Extra 5 
+http://supersonictv.live:8080/797792/016921/22215
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN College Extra 6 " tvg-logo="https://espnpressroom.com/us/files/2015/08/15034102LLU_AFF_FC_White_Bknd.jpg" group-title="ESPN 🏌️",ESPN College Extra 6 
+http://supersonictv.live:8080/797792/016921/22216
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN College Extra 7 " tvg-logo="https://espnpressroom.com/us/files/2015/08/15034102LLU_AFF_FC_White_Bknd.jpg" group-title="ESPN 🏌️",ESPN College Extra 7 
+http://supersonictv.live:8080/797792/016921/22217
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN College Sports" tvg-logo="" group-title="ESPN 🏌️",ESPN College Sports
+http://supersonictv.live:8080/797792/016921/22219
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name=" LaLiga" tvg-logo="https://i.imgur.com/a6fMuux.png" group-title="Sky Sports", LaLiga
+http://supersonictv.live:8080/797792/016921/86861
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Premier League " tvg-logo="https://i.imgur.com/Gn5aKKu.png" group-title="Sky Sports",Premier League 
+http://supersonictv.live:8080/797792/016921/86863
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Premier League backup" tvg-logo="" group-title="Sky Sports",Premier League backup
+http://supersonictv.live:8080/797792/016921/86880
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Premier League backup 02" tvg-logo="" group-title="Sky Sports",Premier League backup 02
+http://supersonictv.live:8080/797792/016921/86881
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Premier League backup 03" tvg-logo="" group-title="Sky Sports",Premier League backup 03
+http://supersonictv.live:8080/797792/016921/86882
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Premier League backup 04" tvg-logo="" group-title="Sky Sports",Premier League backup 04
+http://supersonictv.live:8080/797792/016921/86883
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WWE" tvg-logo="https://i.imgur.com/EhihUuP.png" group-title="Sky Sports",WWE
+http://supersonictv.live:8080/797792/016921/86878
+#EXTINF:-1 tvg-id="SkySportsRacing.uk(m3u4u)" tvg-name="Sky Sport Racing " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30505_dark_360w_270h.png" group-title="Sky Sports",Sky Sport Racing 
+http://supersonictv.live:8080/797792/016921/78145
+#EXTINF:-1 tvg-id="SkySportsAction.uk(m3u4u)" tvg-name="Sky Sports Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19038_dark_360w_270h.png" group-title="Sky Sports",Sky Sports Action
+http://supersonictv.live:8080/797792/016921/78146
+#EXTINF:-1 tvg-id="SkySportsArena.uk(m3u4u)" tvg-name="Sky Sports Arena" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104322_dark_360w_270h.png" group-title="Sky Sports",Sky Sports Arena
+http://supersonictv.live:8080/797792/016921/78147
+#EXTINF:-1 tvg-id="SkySportsCricket.uk(m3u4u)" tvg-name="Sky Sports Cricket" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19036_dark_360w_270h.png" group-title="Sky Sports",Sky Sports Cricket
+http://supersonictv.live:8080/797792/016921/78148
+#EXTINF:-1 tvg-id="SkySportsF1.uk(m3u4u)" tvg-name="Sky Sports F1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74410_dark_360w_270h.png" group-title="Sky Sports",Sky Sports F1
+http://supersonictv.live:8080/797792/016921/78149
+#EXTINF:-1 tvg-id="SkySportsFootball.uk(m3u4u)" tvg-name="Sky Sports Football" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104325_dark_360w_270h.png" group-title="Sky Sports",Sky Sports Football
+http://supersonictv.live:8080/797792/016921/78150
+#EXTINF:-1 tvg-id="SkySportsGolf.uk(m3u4u)" tvg-name="Sky Sports Golf " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24216_dark_360w_270h.png" group-title="Sky Sports",Sky Sports Golf 
+http://supersonictv.live:8080/797792/016921/78151
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk(m3u4u)" tvg-name="Sky Sports Main Events " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17744_dark_360w_270h.png" group-title="Sky Sports",Sky Sports Main Events 
+http://supersonictv.live:8080/797792/016921/78152
+#EXTINF:-1 tvg-id="SkySportsMix.uk(m3u4u)" tvg-name="Sky Sports MIX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100264_dark_360w_270h.png" group-title="Sky Sports",Sky Sports MIX
+http://supersonictv.live:8080/797792/016921/78153
+#EXTINF:-1 tvg-id="SkySportsNews.uk(m3u4u)" tvg-name="Sky Sports News " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68347_dark_360w_270h.png" group-title="Sky Sports",Sky Sports News 
+http://supersonictv.live:8080/797792/016921/78154
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk(m3u4u)" tvg-name="Sky Sports Premier League " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_dark_360w_270h.png" group-title="Sky Sports",Sky Sports Premier League 
+http://supersonictv.live:8080/797792/016921/78155
+#EXTINF:-1 tvg-id="SkySportsRacing.uk(m3u4u)" tvg-name="Sky Sports Racing" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30505_dark_360w_270h.png" group-title="Sky Sports",Sky Sports Racing
+http://supersonictv.live:8080/797792/016921/78156
+#EXTINF:-1 tvg-id="beINSports.us(m3u4u)" tvg-name="BeIN Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" group-title="BeIN Sports 🏈",BeIN Sports 2
+http://supersonictv.live:8080/797792/016921/22189
+#EXTINF:-1 tvg-id="beINSports.us(m3u4u)" tvg-name="BeIN Sports 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" group-title="BeIN Sports 🏈",BeIN Sports 4
+http://supersonictv.live:8080/797792/016921/22190
+#EXTINF:-1 tvg-id="beINSports.us(m3u4u)" tvg-name="BeIN Sports 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" group-title="BeIN Sports 🏈",BeIN Sports 5
+http://supersonictv.live:8080/797792/016921/22191
+#EXTINF:-1 tvg-id="beINSports.us(m3u4u)" tvg-name="BeIN Sports 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" group-title="BeIN Sports 🏈",BeIN Sports 7
+http://supersonictv.live:8080/797792/016921/22193
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us(m3u4u)" tvg-name="Bein Sports N Espanol UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png" group-title="BeIN Sports 🏈",Bein Sports N Espanol UHD
+http://supersonictv.live:8080/797792/016921/22195
+#EXTINF:-1 tvg-id="beINSports.us(m3u4u)" tvg-name="Bein Sports UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" group-title="BeIN Sports 🏈",Bein Sports UHD
+http://supersonictv.live:8080/797792/016921/22187
+#EXTINF:-1 tvg-id="beINSports.us(m3u4u)" tvg-name="USA BeIN Sports 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" group-title="BeIN Sports 🏈",USA BeIN Sports 6
+http://supersonictv.live:8080/797792/016921/22192
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://1.bp.blogspot.com/-dap7C2FgLvs/WYN1uDz4VqI/AAAAAAAAEYE/HD1j1CV1fIQmZPyd4GYwKafoVXDy1ifngCLcBGAs/s1600/beIN-Sports-LaLiga.jpg" group-title="BeIN Sports 🏈",USA BeIN Sports LaLiga
+http://supersonictv.live:8080/797792/016921/22196
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="USA Latin BEIN Sports Latin" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BeIN Sports 🏈",USA Latin BEIN Sports Latin
+http://supersonictv.live:8080/797792/016921/22197
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="USA Longhorn Network " tvg-logo="https://secure.espncdn.com/watchespn/images/channels/longhorn.png" group-title="BeIN Sports 🏈",USA Longhorn Network 
+http://supersonictv.live:8080/797792/016921/22207
+#EXTINF:-1 tvg-id="ABCNewsNow.us(m3u4u)" tvg-name=" ABC News" tvg-logo="" group-title="News 📰", ABC News
+http://supersonictv.live:8080/797792/016921/21753
+#EXTINF:-1 tvg-id="BBCWorldNews(MiddleEast)(src01).uk(m3u4u)" tvg-name="BBC World News" tvg-logo="http://tv.vitaltv.net:25461/images/2Rv3QTasiRQuv8WLJWp0EW59lEtviwVn.png" group-title="News 📰",BBC World News
+http://supersonictv.live:8080/797792/016921/21755
+#EXTINF:-1 tvg-id="Bloomberg.us(m3u4u)" tvg-name="Bloomberg" tvg-logo="" group-title="News 📰",Bloomberg
+http://supersonictv.live:8080/797792/016921/21756
+#EXTINF:-1 tvg-id="CSPAN.us(m3u4u)" tvg-name="C-SPAN" tvg-logo="" group-title="News 📰",C-SPAN
+http://supersonictv.live:8080/797792/016921/21757
+#EXTINF:-1 tvg-id="CSPAN2.us(m3u4u)" tvg-name="C-SPAN 2" tvg-logo="" group-title="News 📰",C-SPAN 2
+http://supersonictv.live:8080/797792/016921/21758
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us(m3u4u)" tvg-name="CBS News " tvg-logo="" group-title="News 📰",CBS News 
+http://supersonictv.live:8080/797792/016921/21759
+#EXTINF:-1 tvg-id="Cheddar.us(m3u4u)" tvg-name="Cheddar News " tvg-logo="https://cdn-images-1.medium.com/max/1600/1*8TFZ5znjPDeV9A82CC7njg.png" group-title="News 📰",Cheddar News 
+http://supersonictv.live:8080/797792/016921/21760
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cheddar Business" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Cheddar_2019.png" group-title="News 📰",Cheddar Business
+http://supersonictv.live:8080/797792/016921/21761
+#EXTINF:-1 tvg-id="CNBC.us(m3u4u)" tvg-name="CNBC" tvg-logo="http://epg4you.com/logos/cnbc.png" group-title="News 📰",CNBC
+http://supersonictv.live:8080/797792/016921/21762
+#EXTINF:-1 tvg-id="CNBCWorld.us(m3u4u)" tvg-name="CNBC World " tvg-logo="http://epg4you.com/logos/cnbc.png" group-title="News 📰",CNBC World 
+http://supersonictv.live:8080/797792/016921/21763
+#EXTINF:-1 tvg-id="CNN.us(m3u4u)" tvg-name="CNN " tvg-logo="https://www.dropbox.com/s/21h2cx29fnmi2ty/cnn-international-us.png?dl=1" group-title="News 📰",CNN 
+http://supersonictv.live:8080/797792/016921/21764
+#EXTINF:-1 tvg-id="CNNInternational.us(m3u4u)" tvg-name="CNN INTERNATIONAL" tvg-logo="http://epg4you.com/logos/cnninternational.png" group-title="News 📰",CNN INTERNATIONAL
+http://supersonictv.live:8080/797792/016921/21765
+#EXTINF:-1 tvg-id="CNNEnEspanol(Spanish).us(m3u4u)" tvg-name="CNN Espanol " tvg-logo="" group-title="News 📰",CNN Espanol 
+http://supersonictv.live:8080/797792/016921/21766
+#EXTINF:-1 tvg-id="ESPNEWS.us(m3u4u)" tvg-name="ESPN News " tvg-logo="" group-title="News 📰",ESPN News 
+http://supersonictv.live:8080/797792/016921/21767
+#EXTINF:-1 tvg-id="FoxNewsChannel.us(m3u4u)" tvg-name="Fox News " tvg-logo="http://apk.eternaltv.net/icons/foxnews.png" group-title="News 📰",Fox News 
+http://supersonictv.live:8080/797792/016921/21768
+#EXTINF:-1 tvg-id="FoxBusiness.us(m3u4u)" tvg-name="Fox Business " tvg-logo="http://epg4you.com/logos/foxbusiness.png" group-title="News 📰",Fox Business 
+http://supersonictv.live:8080/797792/016921/21769
+#EXTINF:-1 tvg-id="HLN.us(m3u4u)" tvg-name="HLN" tvg-logo="" group-title="News 📰",HLN
+http://supersonictv.live:8080/797792/016921/21771
+#EXTINF:-1 tvg-id="MSNBC.us(m3u4u)" tvg-name="MSNBC " tvg-logo="" group-title="News 📰",MSNBC 
+http://supersonictv.live:8080/797792/016921/21773
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NEWS 12 BROOKLYN" tvg-logo="http://apk.eternaltv.net/icons/news12brooklyn.jpg" group-title="News 📰",NEWS 12 BROOKLYN
+http://supersonictv.live:8080/797792/016921/21775
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NEWS 12 CONNECTICUT" tvg-logo="http://apk.eternaltv.net/icons/news12conn.jpg" group-title="News 📰",NEWS 12 CONNECTICUT
+http://supersonictv.live:8080/797792/016921/21776
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NEWS 12 LONG ISLAND" tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="News 📰",NEWS 12 LONG ISLAND
+http://supersonictv.live:8080/797792/016921/21777
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NEWS 12 THE BRONX" tvg-logo="http://apk.eternaltv.net/icons/news12bronx.png" group-title="News 📰",NEWS 12 THE BRONX
+http://supersonictv.live:8080/797792/016921/21778
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NEWS 12 WESTCHESTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/440px-News_12_logo_2019.png" group-title="News 📰",NEWS 12 WESTCHESTER
+http://supersonictv.live:8080/797792/016921/21779
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="News 12 Hudson Valley" tvg-logo="" group-title="News 📰",News 12 Hudson Valley
+http://supersonictv.live:8080/797792/016921/21780
+#EXTINF:-1 tvg-id="News12NewJersey.us(m3u4u)" tvg-name="News 12 New Jersey" tvg-logo="" group-title="News 📰",News 12 New Jersey
+http://supersonictv.live:8080/797792/016921/21781
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us(m3u4u)" tvg-name="ONE AMERICA NEWS NETWORK" tvg-logo="http://apk.eternaltv.net/icons/oan-news.jpg" group-title="News 📰",ONE AMERICA NEWS NETWORK
+http://supersonictv.live:8080/797792/016921/21784
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="THE BLAZE" tvg-logo="http://apk.eternaltv.net/icons/blazetv.jpg" group-title="News 📰",THE BLAZE
+http://supersonictv.live:8080/797792/016921/21786
+#EXTINF:-1 tvg-id="TheWeatherChannel.us(m3u4u)" tvg-name="The Weather Channel" tvg-logo="http://epg4you.com/logos/weatherchannel.png" group-title="News 📰",The Weather Channel
+http://supersonictv.live:8080/797792/016921/21787
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="New England Cable News" tvg-logo="" group-title="News 📰",New England Cable News
+http://supersonictv.live:8080/797792/016921/40387
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV News Channel" tvg-logo="" group-title="News 📰",CA CTV News Channel
+http://supersonictv.live:8080/797792/016921/40388
+#EXTINF:-1 tvg-id="AccuWeather.us(m3u4u)" tvg-name="AccuWeather" tvg-logo="https://storage.googleapis.com/twg-content/images/accuweather-measures-holistic-analytics-with-.width-1200.jpg" group-title="News 📰",AccuWeather
+http://supersonictv.live:8080/797792/016921/47748
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Black News Channel" tvg-logo="" group-title="News 📰",Black News Channel
+http://supersonictv.live:8080/797792/016921/47749
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Bay Area" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN Bay Area
+http://supersonictv.live:8080/797792/016921/77559
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Boston" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN Boston
+http://supersonictv.live:8080/797792/016921/77560
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Chicago" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN Chicago
+http://supersonictv.live:8080/797792/016921/77561
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Dallas" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN Dallas
+http://supersonictv.live:8080/797792/016921/77562
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Denver" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN Denver
+http://supersonictv.live:8080/797792/016921/77563
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Los Angeles" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN Los Angeles
+http://supersonictv.live:8080/797792/016921/77564
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Minnesota" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN Minnesota
+http://supersonictv.live:8080/797792/016921/77565
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN New York" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN New York
+http://supersonictv.live:8080/797792/016921/77566
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Philly" tvg-logo="https://cdn.mos.cms.futurecdn.net/NVcx4vjSQJgnepEVPASZHU.png" group-title="News 📰",CBSN Philly
+http://supersonictv.live:8080/797792/016921/77567
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBSN Pittsburgh" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="News 📰",CBSN Pittsburgh
+http://supersonictv.live:8080/797792/016921/77568
+#EXTINF:-1 tvg-id="Newsy.us(m3u4u)" tvg-name="Newsy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="News 📰",Newsy
+http://supersonictv.live:8080/797792/016921/77569
+#EXTINF:-1 tvg-id="ABSCBNNewsChannel.us(m3u4u)" tvg-name="CBN News International" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61SHHQXZ5YL.png" group-title="News 📰",CBN News International
+http://supersonictv.live:8080/797792/016921/77570
+#EXTINF:-1 tvg-id="Newsmax.uk(m3u4u)" tvg-name="Newsmax " tvg-logo="https://deadline.com/wp-content/uploads/2017/06/newsmax-tv-logo.jpg" group-title="News 📰",Newsmax 
+http://supersonictv.live:8080/797792/016921/77589
+#EXTINF:-1 tvg-id="WeatherNationTV.us(m3u4u)" tvg-name="Weather Nation" tvg-logo="" group-title="News 📰",Weather Nation
+http://supersonictv.live:8080/797792/016921/83350
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk(m3u4u)" tvg-name="[AR] Al Jazeera English" tvg-logo="" group-title="News 📰",[AR] Al Jazeera English
+http://supersonictv.live:8080/797792/016921/86403
+#EXTINF:-1 tvg-id="AandE(English).ca(m3u4u)" tvg-name="CA A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55097_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA A&E
+http://supersonictv.live:8080/797792/016921/21814
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ABC_Buffalo_(WKBW)" tvg-logo="" group-title="CANADA 🇨🇦",CA ABC_Buffalo_(WKBW)
+http://supersonictv.live:8080/797792/016921/21815
+#EXTINF:-1 tvg-id="ABCSpark(English).ca(m3u4u)" tvg-name="CA ABC_Spark" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75117_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA ABC_Spark
+http://supersonictv.live:8080/797792/016921/21816
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Addik TV (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Addik TV (FR)
+http://supersonictv.live:8080/797792/016921/21817
+#EXTINF:-1 tvg-id="AdultSwim(English).ca(m3u4u)" tvg-name="CA Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92160_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA Adult Swim
+http://supersonictv.live:8080/797792/016921/21818
+#EXTINF:-1 tvg-id="AMC(English).ca(m3u4u)" tvg-name="CA AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64831_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA AMC
+http://supersonictv.live:8080/797792/016921/21819
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Amercian Heroes" tvg-logo="" group-title="CANADA 🇨🇦",CA Amercian Heroes
+http://supersonictv.live:8080/797792/016921/21820
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA AMI-tÃ©lÃ© FR" tvg-logo="" group-title="CANADA 🇨🇦",CA AMI-tÃ©lÃ© FR
+http://supersonictv.live:8080/797792/016921/21821
+#EXTINF:-1 tvg-id="AnimalPlanet(English).ca(m3u4u)" tvg-name="CA Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74041_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA Animal Planet
+http://supersonictv.live:8080/797792/016921/21822
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA APTN" tvg-logo="" group-title="CANADA 🇨🇦",CA APTN
+http://supersonictv.live:8080/797792/016921/21823
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA BBC Canada" tvg-logo="" group-title="CANADA 🇨🇦",CA BBC Canada
+http://supersonictv.live:8080/797792/016921/21824
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA BBC WORLD NEWS" tvg-logo="" group-title="CANADA 🇨🇦",CA BBC WORLD NEWS
+http://supersonictv.live:8080/797792/016921/21825
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA BET" tvg-logo="" group-title="CANADA 🇨🇦",CA BET
+http://supersonictv.live:8080/797792/016921/21826
+#EXTINF:-1 tvg-id="BNNBloomberg(English).ca(m3u4u)" tvg-name="CA BNN_Bloomberg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73963_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA BNN_Bloomberg
+http://supersonictv.live:8080/797792/016921/21827
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA BOOK TV" tvg-logo="" group-title="CANADA 🇨🇦",CA BOOK TV
+http://supersonictv.live:8080/797792/016921/21828
+#EXTINF:-1 tvg-id="CablePulse24(CP24)(English).ca(m3u4u)" tvg-name="CA CablePulse 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94289_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CablePulse 24
+http://supersonictv.live:8080/797792/016921/21829
+#EXTINF:-1 tvg-id="CanalD(French).ca(m3u4u)" tvg-name="CA Canal D (FR)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56161_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA Canal D (FR)
+http://supersonictv.live:8080/797792/016921/21830
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Canal Savoir" tvg-logo="" group-title="CANADA 🇨🇦",CA Canal Savoir
+http://supersonictv.live:8080/797792/016921/21831
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca(m3u4u)" tvg-name="CA CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75456_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CARTOON NETWORK
+http://supersonictv.live:8080/797792/016921/21832
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca(m3u4u)" tvg-name="CA Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75456_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA Cartoon Network
+http://supersonictv.live:8080/797792/016921/21833
+#EXTINF:-1 tvg-id="CASA(French).ca(m3u4u)" tvg-name="CA CASA (FR)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59532_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CASA (FR)
+http://supersonictv.live:8080/797792/016921/21834
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC
+http://supersonictv.live:8080/797792/016921/21835
+#EXTINF:-1 tvg-id="CBCCalgary(English).ca(m3u4u)" tvg-name="CA CBC Calgary" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71729_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC Calgary
+http://supersonictv.live:8080/797792/016921/21836
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca(m3u4u)" tvg-name="CACBC News Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10094_dark_360w_270h.png" group-title="CANADA 🇨🇦",CACBC News Network
+http://supersonictv.live:8080/797792/016921/21837
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Charlottetown" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Charlottetown
+http://supersonictv.live:8080/797792/016921/21838
+#EXTINF:-1 tvg-id="CBCEdmonton(English).ca(m3u4u)" tvg-name="CA CBC Edmonton" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71733_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC Edmonton
+http://supersonictv.live:8080/797792/016921/21839
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Fredericton" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Fredericton
+http://supersonictv.live:8080/797792/016921/21840
+#EXTINF:-1 tvg-id="CBCHalifax(English).ca(m3u4u)" tvg-name="CA CBC Halifax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC Halifax
+http://supersonictv.live:8080/797792/016921/21841
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Montreal" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Montreal
+http://supersonictv.live:8080/797792/016921/21842
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Montreal" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Montreal
+http://supersonictv.live:8080/797792/016921/21843
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Montreal HD" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Montreal HD
+http://supersonictv.live:8080/797792/016921/21844
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca(m3u4u)" tvg-name="CA CBC News Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10094_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC News Network
+http://supersonictv.live:8080/797792/016921/21845
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Oshawa (CHEX2)" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Oshawa (CHEX2)
+http://supersonictv.live:8080/797792/016921/21846
+#EXTINF:-1 tvg-id="CBCOttawa(English).ca(m3u4u)" tvg-name="CA CBC OTTAWA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC OTTAWA
+http://supersonictv.live:8080/797792/016921/21847
+#EXTINF:-1 tvg-id="CBCOttawa(English).ca(m3u4u)" tvg-name="CA CBC Ottawa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC Ottawa
+http://supersonictv.live:8080/797792/016921/21848
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Regina" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Regina
+http://supersonictv.live:8080/797792/016921/21849
+#EXTINF:-1 tvg-id="CBCStJohns(English).ca(m3u4u)" tvg-name="CA CBC St. John's (CBNT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC St. John's (CBNT)
+http://supersonictv.live:8080/797792/016921/21850
+#EXTINF:-1 tvg-id="CBCStJohns(English).ca(m3u4u)" tvg-name="CA CBC St_John_s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC St_John_s
+http://supersonictv.live:8080/797792/016921/21851
+#EXTINF:-1 tvg-id="CBCToronto(English).ca(m3u4u)" tvg-name="CA CBC TORONTO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46245_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC TORONTO
+http://supersonictv.live:8080/797792/016921/21852
+#EXTINF:-1 tvg-id="CBCToronto(English).ca(m3u4u)" tvg-name="CA CBC Toronto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46245_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC Toronto
+http://supersonictv.live:8080/797792/016921/21853
+#EXTINF:-1 tvg-id="CBCToronto(English).ca(m3u4u)" tvg-name="CA CBC Toronto (CBLT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46245_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC Toronto (CBLT)
+http://supersonictv.live:8080/797792/016921/21854
+#EXTINF:-1 tvg-id="CBCVancouver(English).ca(m3u4u)" tvg-name="CA CBC VANCOUVER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51981_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC VANCOUVER
+http://supersonictv.live:8080/797792/016921/21855
+#EXTINF:-1 tvg-id="CBCVancouver(English).ca(m3u4u)" tvg-name="CA CBC Vancouver" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51981_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC Vancouver
+http://supersonictv.live:8080/797792/016921/21856
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Windsor" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Windsor
+http://supersonictv.live:8080/797792/016921/21857
+#EXTINF:-1 tvg-id="CBCWinnipeg(English).ca(m3u4u)" tvg-name="CA CBC Winnipeg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72940_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CBC Winnipeg
+http://supersonictv.live:8080/797792/016921/21858
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC Yellowknife" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC Yellowknife
+http://supersonictv.live:8080/797792/016921/21859
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBC3" tvg-logo="" group-title="CANADA 🇨🇦",CA CBC3
+http://supersonictv.live:8080/797792/016921/21860
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CBCLGARY" tvg-logo="" group-title="CANADA 🇨🇦",CA CBCLGARY
+http://supersonictv.live:8080/797792/016921/21861
+#EXTINF:-1 tvg-id="CHCH(English).ca(m3u4u)" tvg-name="CA CHCH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10112_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CHCH
+http://supersonictv.live:8080/797792/016921/21862
+#EXTINF:-1 tvg-id="CinePop(French).ca(m3u4u)" tvg-name="CA CinePOP (FR)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70699_dark_360w_270h.png" group-title="CANADA 🇨🇦",CA CinePOP (FR)
+http://supersonictv.live:8080/797792/016921/21863
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CITY MONTREAL" tvg-logo="" group-title="CANADA 🇨🇦",CA CITY MONTREAL
+http://supersonictv.live:8080/797792/016921/21864
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CITY TORONTO" tvg-logo="" group-title="CANADA 🇨🇦",CA CITY TORONTO
+http://supersonictv.live:8080/797792/016921/21865
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CITY VANCOUVER" tvg-logo="" group-title="CANADA 🇨🇦",CA CITY VANCOUVER
+http://supersonictv.live:8080/797792/016921/21866
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CITYLGARY" tvg-logo="" group-title="CANADA 🇨🇦",CA CITYLGARY
+http://supersonictv.live:8080/797792/016921/21867
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Citytv Toronto" tvg-logo="" group-title="CANADA 🇨🇦",CA Citytv Toronto
+http://supersonictv.live:8080/797792/016921/21868
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CMT" tvg-logo="" group-title="CANADA 🇨🇦",CA CMT
+http://supersonictv.live:8080/797792/016921/21869
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CNBC" tvg-logo="" group-title="CANADA 🇨🇦",CA CNBC
+http://supersonictv.live:8080/797792/016921/21870
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CNN" tvg-logo="" group-title="CANADA 🇨🇦",CA CNN
+http://supersonictv.live:8080/797792/016921/21871
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CNN INTERNATIONAL" tvg-logo="" group-title="CANADA 🇨🇦",CA CNN INTERNATIONAL
+http://supersonictv.live:8080/797792/016921/21872
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA COOKING CHANNEL" tvg-logo="" group-title="CANADA 🇨🇦",CA COOKING CHANNEL
+http://supersonictv.live:8080/797792/016921/21873
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA COTTAGE LIFE" tvg-logo="" group-title="CANADA 🇨🇦",CA COTTAGE LIFE
+http://supersonictv.live:8080/797792/016921/21874
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CP24" tvg-logo="" group-title="CANADA 🇨🇦",CA CP24
+http://supersonictv.live:8080/797792/016921/21875
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CP24 (Backup)" tvg-logo="" group-title="CANADA 🇨🇦",CA CP24 (Backup)
+http://supersonictv.live:8080/797792/016921/21876
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CPAC EN" tvg-logo="" group-title="CANADA 🇨🇦",CA CPAC EN
+http://supersonictv.live:8080/797792/016921/21877
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CPAC FR" tvg-logo="" group-title="CANADA 🇨🇦",CA CPAC FR
+http://supersonictv.live:8080/797792/016921/21878
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Crave 1" tvg-logo="" group-title="CANADA 🇨🇦",CA Crave 1
+http://supersonictv.live:8080/797792/016921/21879
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Crave 2" tvg-logo="" group-title="CANADA 🇨🇦",CA Crave 2
+http://supersonictv.live:8080/797792/016921/21880
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Crave 3" tvg-logo="" group-title="CANADA 🇨🇦",CA Crave 3
+http://supersonictv.live:8080/797792/016921/21881
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Crave 4" tvg-logo="" group-title="CANADA 🇨🇦",CA Crave 4
+http://supersonictv.live:8080/797792/016921/21882
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Crime & Investigation" tvg-logo="" group-title="CANADA 🇨🇦",CA Crime & Investigation
+http://supersonictv.live:8080/797792/016921/21883
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CRIME INVESTIGATION" tvg-logo="" group-title="CANADA 🇨🇦",CA CRIME INVESTIGATION
+http://supersonictv.live:8080/797792/016921/21884
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV
+http://supersonictv.live:8080/797792/016921/21885
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV 2 VANCOUVER" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV 2 VANCOUVER
+http://supersonictv.live:8080/797792/016921/21886
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV COMEDY" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV COMEDY
+http://supersonictv.live:8080/797792/016921/21887
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV Drama" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV Drama
+http://supersonictv.live:8080/797792/016921/21888
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV HALIFAX" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV HALIFAX
+http://supersonictv.live:8080/797792/016921/21889
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV MONTREAL" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV MONTREAL
+http://supersonictv.live:8080/797792/016921/21890
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV News Live Events 1" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV News Live Events 1
+http://supersonictv.live:8080/797792/016921/21891
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV News Live Events 2" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV News Live Events 2
+http://supersonictv.live:8080/797792/016921/21892
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV News Live Events 3" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV News Live Events 3
+http://supersonictv.live:8080/797792/016921/21893
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV News Live Events 4" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV News Live Events 4
+http://supersonictv.live:8080/797792/016921/21894
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV NEWS NETWORK" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV NEWS NETWORK
+http://supersonictv.live:8080/797792/016921/21895
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV OTTAWA" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV OTTAWA
+http://supersonictv.live:8080/797792/016921/21896
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV SCI-FI" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV SCI-FI
+http://supersonictv.live:8080/797792/016921/21897
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV TORONTO" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV TORONTO
+http://supersonictv.live:8080/797792/016921/21898
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV TORONTO (CFTO)" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV TORONTO (CFTO)
+http://supersonictv.live:8080/797792/016921/21899
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV VANCOUVER" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV VANCOUVER
+http://supersonictv.live:8080/797792/016921/21900
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV2 OTTAWA" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV2 OTTAWA
+http://supersonictv.live:8080/797792/016921/21901
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTVLGARY" tvg-logo="" group-title="CANADA 🇨🇦",CA CTVLGARY
+http://supersonictv.live:8080/797792/016921/21902
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA CTV_Two_Atlantic" tvg-logo="" group-title="CANADA 🇨🇦",CA CTV_Two_Atlantic
+http://supersonictv.live:8080/797792/016921/21903
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA DAYSTAR TV" tvg-logo="" group-title="CANADA 🇨🇦",CA DAYSTAR TV
+http://supersonictv.live:8080/797792/016921/21904
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA DEJAVIEW" tvg-logo="" group-title="CANADA 🇨🇦",CA DEJAVIEW
+http://supersonictv.live:8080/797792/016921/21905
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Discovery Channel" tvg-logo="" group-title="CANADA 🇨🇦",CA Discovery Channel
+http://supersonictv.live:8080/797792/016921/21906
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA DISCOVERY SCIENCE" tvg-logo="" group-title="CANADA 🇨🇦",CA DISCOVERY SCIENCE
+http://supersonictv.live:8080/797792/016921/21907
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Disney Channel" tvg-logo="" group-title="CANADA 🇨🇦",CA Disney Channel
+http://supersonictv.live:8080/797792/016921/21908
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Disney Junior" tvg-logo="" group-title="CANADA 🇨🇦",CA Disney Junior
+http://supersonictv.live:8080/797792/016921/21909
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Disney Junior (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Disney Junior (FR)
+http://supersonictv.live:8080/797792/016921/21910
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA DISNEY_XD" tvg-logo="" group-title="CANADA 🇨🇦",CA DISNEY_XD
+http://supersonictv.live:8080/797792/016921/21911
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA DIY Network" tvg-logo="" group-title="CANADA 🇨🇦",CA DIY Network
+http://supersonictv.live:8080/797792/016921/21912
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA DTOUR" tvg-logo="" group-title="CANADA 🇨🇦",CA DTOUR
+http://supersonictv.live:8080/797792/016921/21913
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA E! Entertainment Television" tvg-logo="" group-title="CANADA 🇨🇦",CA E! Entertainment Television
+http://supersonictv.live:8080/797792/016921/21914
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Evasion (FR)
+http://supersonictv.live:8080/797792/016921/21915
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA FAMILY" tvg-logo="" group-title="CANADA 🇨🇦",CA FAMILY
+http://supersonictv.live:8080/797792/016921/21916
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA FAMILY CHRGD" tvg-logo="" group-title="CANADA 🇨🇦",CA FAMILY CHRGD
+http://supersonictv.live:8080/797792/016921/21917
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA FAMILY_JR" tvg-logo="" group-title="CANADA 🇨🇦",CA FAMILY_JR
+http://supersonictv.live:8080/797792/016921/21918
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Food Network" tvg-logo="" group-title="CANADA 🇨🇦",CA Food Network
+http://supersonictv.live:8080/797792/016921/21919
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA FOX NEWS" tvg-logo="" group-title="CANADA 🇨🇦",CA FOX NEWS
+http://supersonictv.live:8080/797792/016921/21920
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA FX" tvg-logo="" group-title="CANADA 🇨🇦",CA FX
+http://supersonictv.live:8080/797792/016921/21921
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA FXX" tvg-logo="" group-title="CANADA 🇨🇦",CA FXX
+http://supersonictv.live:8080/797792/016921/21922
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA FYI" tvg-logo="" group-title="CANADA 🇨🇦",CA FYI
+http://supersonictv.live:8080/797792/016921/21923
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Game TV" tvg-logo="" group-title="CANADA 🇨🇦",CA Game TV
+http://supersonictv.live:8080/797792/016921/21924
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Game+" tvg-logo="" group-title="CANADA 🇨🇦",CA Game+
+http://supersonictv.live:8080/797792/016921/21925
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA GLOBAL HALIFAX" tvg-logo="" group-title="CANADA 🇨🇦",CA GLOBAL HALIFAX
+http://supersonictv.live:8080/797792/016921/21926
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Global National" tvg-logo="" group-title="CANADA 🇨🇦",CA Global National
+http://supersonictv.live:8080/797792/016921/21927
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA GLOBAL TORONTO" tvg-logo="" group-title="CANADA 🇨🇦",CA GLOBAL TORONTO
+http://supersonictv.live:8080/797792/016921/21928
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Global Toronto (CIII)" tvg-logo="" group-title="CANADA 🇨🇦",CA Global Toronto (CIII)
+http://supersonictv.live:8080/797792/016921/21929
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA GLOBAL VANCOUVER" tvg-logo="" group-title="CANADA 🇨🇦",CA GLOBAL VANCOUVER
+http://supersonictv.live:8080/797792/016921/21930
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA GOLF" tvg-logo="" group-title="CANADA 🇨🇦",CA GOLF
+http://supersonictv.live:8080/797792/016921/21931
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA GSN" tvg-logo="" group-title="CANADA 🇨🇦",CA GSN
+http://supersonictv.live:8080/797792/016921/21932
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA GUSTO" tvg-logo="" group-title="CANADA 🇨🇦",CA GUSTO
+http://supersonictv.live:8080/797792/016921/21933
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA H2" tvg-logo="" group-title="CANADA 🇨🇦",CA H2
+http://supersonictv.live:8080/797792/016921/21934
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA HBO 1" tvg-logo="" group-title="CANADA 🇨🇦",CA HBO 1
+http://supersonictv.live:8080/797792/016921/21935
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA HBO 2" tvg-logo="" group-title="CANADA 🇨🇦",CA HBO 2
+http://supersonictv.live:8080/797792/016921/21936
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Headline News" tvg-logo="" group-title="CANADA 🇨🇦",CA Headline News
+http://supersonictv.live:8080/797792/016921/21937
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA HGTV" tvg-logo="" group-title="CANADA 🇨🇦",CA HGTV
+http://supersonictv.live:8080/797792/016921/21938
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Historia (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Historia (FR)
+http://supersonictv.live:8080/797792/016921/21939
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA History Channel" tvg-logo="" group-title="CANADA 🇨🇦",CA History Channel
+http://supersonictv.live:8080/797792/016921/21940
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA HLN" tvg-logo="" group-title="CANADA 🇨🇦",CA HLN
+http://supersonictv.live:8080/797792/016921/21941
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Hollywood Suite 90's" tvg-logo="" group-title="CANADA 🇨🇦",CA Hollywood Suite 90's
+http://supersonictv.live:8080/797792/016921/21942
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ICI ARTV (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA ICI ARTV (FR)
+http://supersonictv.live:8080/797792/016921/21943
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ICI Montreal (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA ICI Montreal (FR)
+http://supersonictv.live:8080/797792/016921/21944
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ICI RDI" tvg-logo="" group-title="CANADA 🇨🇦",CA ICI RDI
+http://supersonictv.live:8080/797792/016921/21945
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ICI RDI (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA ICI RDI (FR)
+http://supersonictv.live:8080/797792/016921/21946
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ICI TÃ©lÃ© (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA ICI TÃ©lÃ© (FR)
+http://supersonictv.live:8080/797792/016921/21947
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ICI Vancouver (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA ICI Vancouver (FR)
+http://supersonictv.live:8080/797792/016921/21948
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ID" tvg-logo="" group-title="CANADA 🇨🇦",CA ID
+http://supersonictv.live:8080/797792/016921/21949
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA KNOWLEDGE KIDS" tvg-logo="" group-title="CANADA 🇨🇦",CA KNOWLEDGE KIDS
+http://supersonictv.live:8080/797792/016921/21950
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA La chaÃ®ne Disney (FR))" tvg-logo="" group-title="CANADA 🇨🇦",CA La chaÃ®ne Disney (FR))
+http://supersonictv.live:8080/797792/016921/21951
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA LCN (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA LCN (FR)
+http://supersonictv.live:8080/797792/016921/21952
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Lifetime" tvg-logo="" group-title="CANADA 🇨🇦",CA Lifetime
+http://supersonictv.live:8080/797792/016921/21953
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Love Nature" tvg-logo="" group-title="CANADA 🇨🇦",CA Love Nature
+http://supersonictv.live:8080/797792/016921/21954
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Love Nature" tvg-logo="" group-title="CANADA 🇨🇦",CA Love Nature
+http://supersonictv.live:8080/797792/016921/21955
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Makeful" tvg-logo="" group-title="CANADA 🇨🇦",CA Makeful
+http://supersonictv.live:8080/797792/016921/21956
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MAVTV" tvg-logo="" group-title="CANADA 🇨🇦",CA MAVTV
+http://supersonictv.live:8080/797792/016921/21957
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MAX" tvg-logo="" group-title="CANADA 🇨🇦",CA MAX
+http://supersonictv.live:8080/797792/016921/21958
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MEDIASET ITALIA" tvg-logo="" group-title="CANADA 🇨🇦",CA MEDIASET ITALIA
+http://supersonictv.live:8080/797792/016921/21959
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Metro Media (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Metro Media (FR)
+http://supersonictv.live:8080/797792/016921/21960
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MIRACLE" tvg-logo="" group-title="CANADA 🇨🇦",CA MIRACLE
+http://supersonictv.live:8080/797792/016921/21961
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MOI et CIE (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA MOI et CIE (FR)
+http://supersonictv.live:8080/797792/016921/21962
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MovieTime" tvg-logo="" group-title="CANADA 🇨🇦",CA MovieTime
+http://supersonictv.live:8080/797792/016921/21963
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MTV" tvg-logo="" group-title="CANADA 🇨🇦",CA MTV
+http://supersonictv.live:8080/797792/016921/21964
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MTV 2" tvg-logo="" group-title="CANADA 🇨🇦",CA MTV 2
+http://supersonictv.live:8080/797792/016921/21965
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Much" tvg-logo="" group-title="CANADA 🇨🇦",CA Much
+http://supersonictv.live:8080/797792/016921/21966
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MUCH_MUSIC" tvg-logo="" group-title="CANADA 🇨🇦",CA MUCH_MUSIC
+http://supersonictv.live:8080/797792/016921/21967
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA MUSIC PLUS (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA MUSIC PLUS (FR)
+http://supersonictv.live:8080/797792/016921/21968
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Musique Plus (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Musique Plus (FR)
+http://supersonictv.live:8080/797792/016921/21969
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Nat Geo Wild" tvg-logo="" group-title="CANADA 🇨🇦",CA Nat Geo Wild
+http://supersonictv.live:8080/797792/016921/21970
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA NAT_GEO" tvg-logo="" group-title="CANADA 🇨🇦",CA NAT_GEO
+http://supersonictv.live:8080/797792/016921/21971
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Nickelodeon" tvg-logo="" group-title="CANADA 🇨🇦",CA Nickelodeon
+http://supersonictv.live:8080/797792/016921/21972
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA NTV" tvg-logo="" group-title="CANADA 🇨🇦",CA NTV
+http://supersonictv.live:8080/797792/016921/21973
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA OLN" tvg-logo="" group-title="CANADA 🇨🇦",CA OLN
+http://supersonictv.live:8080/797792/016921/21974
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA OMNI_1" tvg-logo="" group-title="CANADA 🇨🇦",CA OMNI_1
+http://supersonictv.live:8080/797792/016921/21975
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA OMNI_2" tvg-logo="" group-title="CANADA 🇨🇦",CA OMNI_2
+http://supersonictv.live:8080/797792/016921/21976
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA ONE" tvg-logo="" group-title="CANADA 🇨🇦",CA ONE
+http://supersonictv.live:8080/797792/016921/21977
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA OWN" tvg-logo="" group-title="CANADA 🇨🇦",CA OWN
+http://supersonictv.live:8080/797792/016921/21978
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA PBS Buffalo (WNED)" tvg-logo="" group-title="CANADA 🇨🇦",CA PBS Buffalo (WNED)
+http://supersonictv.live:8080/797792/016921/21979
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA PEACHTREE" tvg-logo="" group-title="CANADA 🇨🇦",CA PEACHTREE
+http://supersonictv.live:8080/797792/016921/21980
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA PRISE" tvg-logo="" group-title="CANADA 🇨🇦",CA PRISE
+http://supersonictv.live:8080/797792/016921/21981
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Prise 2 (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Prise 2 (FR)
+http://supersonictv.live:8080/797792/016921/21982
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA RDS (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA RDS (FR)
+http://supersonictv.live:8080/797792/016921/21983
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA RDS 2 (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA RDS 2 (FR)
+http://supersonictv.live:8080/797792/016921/21984
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA RDS INFO (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA RDS INFO (FR)
+http://supersonictv.live:8080/797792/016921/21985
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Rogers TV FR" tvg-logo="" group-title="CANADA 🇨🇦",CA Rogers TV FR
+http://supersonictv.live:8080/797792/016921/21986
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA SERIES Plus" tvg-logo="" group-title="CANADA 🇨🇦",CA SERIES Plus
+http://supersonictv.live:8080/797792/016921/21987
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Series+ (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Series+ (FR)
+http://supersonictv.live:8080/797792/016921/21988
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA SHOPPING" tvg-logo="" group-title="CANADA 🇨🇦",CA SHOPPING
+http://supersonictv.live:8080/797792/016921/21989
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Showcase" tvg-logo="" group-title="CANADA 🇨🇦",CA Showcase
+http://supersonictv.live:8080/797792/016921/21990
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA SILVER SCREEN CLASSICS" tvg-logo="" group-title="CANADA 🇨🇦",CA SILVER SCREEN CLASSICS
+http://supersonictv.live:8080/797792/016921/21991
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA SLICE" tvg-logo="" group-title="CANADA 🇨🇦",CA SLICE
+http://supersonictv.live:8080/797792/016921/21992
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA SPIKE TV / PARAMOUNT" tvg-logo="" group-title="CANADA 🇨🇦",CA SPIKE TV / PARAMOUNT
+http://supersonictv.live:8080/797792/016921/21993
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Starz 1" tvg-logo="" group-title="CANADA 🇨🇦",CA Starz 1
+http://supersonictv.live:8080/797792/016921/21994
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Starz 2" tvg-logo="" group-title="CANADA 🇨🇦",CA Starz 2
+http://supersonictv.live:8080/797792/016921/21995
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Super Ecran 2 (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Super Ecran 2 (FR)
+http://supersonictv.live:8080/797792/016921/21996
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Super Ecran 3 (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Super Ecran 3 (FR)
+http://supersonictv.live:8080/797792/016921/21997
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Super Ecran 4 (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Super Ecran 4 (FR)
+http://supersonictv.live:8080/797792/016921/21998
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TCM" tvg-logo="" group-title="CANADA 🇨🇦",CA TCM
+http://supersonictv.live:8080/797792/016921/21999
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TCTV2" tvg-logo="" group-title="CANADA 🇨🇦",CA TCTV2
+http://supersonictv.live:8080/797792/016921/22000
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TELEMAGINO  (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA TELEMAGINO  (FR)
+http://supersonictv.live:8080/797792/016921/22001
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Teletoon (FR)
+http://supersonictv.live:8080/797792/016921/22002
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TFO_(FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA TFO_(FR)
+http://supersonictv.live:8080/797792/016921/22003
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA THE_WEATHER_NETWORK" tvg-logo="" group-title="CANADA 🇨🇦",CA THE_WEATHER_NETWORK
+http://supersonictv.live:8080/797792/016921/22004
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TLC" tvg-logo="" group-title="CANADA 🇨🇦",CA TLC
+http://supersonictv.live:8080/797792/016921/22005
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TRAVEL ESCAPE" tvg-logo="" group-title="CANADA 🇨🇦",CA TRAVEL ESCAPE
+http://supersonictv.live:8080/797792/016921/22006
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Treehouse" tvg-logo="" group-title="CANADA 🇨🇦",CA Treehouse
+http://supersonictv.live:8080/797792/016921/22007
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TSC" tvg-logo="" group-title="CANADA 🇨🇦",CA TSC
+http://supersonictv.live:8080/797792/016921/22008
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TV Ontario" tvg-logo="" group-title="CANADA 🇨🇦",CA TV Ontario
+http://supersonictv.live:8080/797792/016921/22009
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TV Rogers" tvg-logo="" group-title="CANADA 🇨🇦",CA TV Rogers
+http://supersonictv.live:8080/797792/016921/22010
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TV5 (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA TV5 (FR)
+http://supersonictv.live:8080/797792/016921/22011
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TV5 Quebec (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA TV5 Quebec (FR)
+http://supersonictv.live:8080/797792/016921/22012
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TVA  Sports" tvg-logo="" group-title="CANADA 🇨🇦",CA TVA  Sports
+http://supersonictv.live:8080/797792/016921/22013
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TVA Montreal (CFTM)" tvg-logo="" group-title="CANADA 🇨🇦",CA TVA Montreal (CFTM)
+http://supersonictv.live:8080/797792/016921/22014
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TVA Sports 2" tvg-logo="" group-title="CANADA 🇨🇦",CA TVA Sports 2
+http://supersonictv.live:8080/797792/016921/22015
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TVO" tvg-logo="" group-title="CANADA 🇨🇦",CA TVO
+http://supersonictv.live:8080/797792/016921/22016
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA TÃ©lÃ©-QuÃ©bec" tvg-logo="" group-title="CANADA 🇨🇦",CA TÃ©lÃ©-QuÃ©bec
+http://supersonictv.live:8080/797792/016921/22017
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Télé Québec (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Télé Québec (FR)
+http://supersonictv.live:8080/797792/016921/22018
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Télémagino (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Télémagino (FR)
+http://supersonictv.live:8080/797792/016921/22019
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Unis_TV_(FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Unis_TV_(FR)
+http://supersonictv.live:8080/797792/016921/22020
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Vie (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Vie (FR)
+http://supersonictv.live:8080/797792/016921/22021
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA VISION" tvg-logo="" group-title="CANADA 🇨🇦",CA VISION
+http://supersonictv.live:8080/797792/016921/22022
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA VRAK TV (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA VRAK TV (FR)
+http://supersonictv.live:8080/797792/016921/22023
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA WFN" tvg-logo="" group-title="CANADA 🇨🇦",CA WFN
+http://supersonictv.live:8080/797792/016921/22024
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA WGN" tvg-logo="" group-title="CANADA 🇨🇦",CA WGN
+http://supersonictv.live:8080/797792/016921/22025
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Wild TV" tvg-logo="" group-title="CANADA 🇨🇦",CA Wild TV
+http://supersonictv.live:8080/797792/016921/22026
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA WNLO Buffalo (CW23)" tvg-logo="" group-title="CANADA 🇨🇦",CA WNLO Buffalo (CW23)
+http://supersonictv.live:8080/797792/016921/22027
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA W_NETWORK" tvg-logo="" group-title="CANADA 🇨🇦",CA W_NETWORK
+http://supersonictv.live:8080/797792/016921/22028
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA YES TV" tvg-logo="" group-title="CANADA 🇨🇦",CA YES TV
+http://supersonictv.live:8080/797792/016921/22029
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA YOOPA (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA YOOPA (FR)
+http://supersonictv.live:8080/797792/016921/22030
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA YTV" tvg-logo="" group-title="CANADA 🇨🇦",CA YTV
+http://supersonictv.live:8080/797792/016921/22031
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Z Tele (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Z Tele (FR)
+http://supersonictv.live:8080/797792/016921/22032
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CA Zeste (FR)" tvg-logo="" group-title="CANADA 🇨🇦",CA Zeste (FR)
+http://supersonictv.live:8080/797792/016921/22033
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ICI Radio-Canada TÃ©lÃ© (TOR)" tvg-logo="" group-title="CANADA 🇨🇦",ICI Radio-Canada TÃ©lÃ© (TOR)
+http://supersonictv.live:8080/797792/016921/22034
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK 3E" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK 3E
+http://supersonictv.live:8080/797792/016921/12165
+#EXTINF:-1 tvg-id="4Music.uk(m3u4u)" tvg-name="UK 4Music" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26084_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK 4Music
+http://supersonictv.live:8080/797792/016921/12166
+#EXTINF:-1 tvg-id="4Seven.uk(m3u4u)" tvg-name="UK 4seven" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75804_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK 4seven
+http://supersonictv.live:8080/797792/016921/12167
+#EXTINF:-1 tvg-id="5Star.uk(m3u4u)" tvg-name="UK 5 Star" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52336_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK 5 Star
+http://supersonictv.live:8080/797792/016921/12168
+#EXTINF:-1 tvg-id="5USA.uk(m3u4u)" tvg-name="[UK] 5 USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52335_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",[UK] 5 USA
+http://supersonictv.live:8080/797792/016921/12169
+#EXTINF:-1 tvg-id="AAJTAK.uk(m3u4u)" tvg-name="UK Aaj Tak" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56894_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Aaj Tak
+http://supersonictv.live:8080/797792/016921/12170
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK ABP News" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK ABP News
+http://supersonictv.live:8080/797792/016921/12171
+#EXTINF:-1 tvg-id="Alibi.uk(m3u4u)" tvg-name="UK Alibi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75803_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Alibi
+http://supersonictv.live:8080/797792/016921/12172
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK AMC" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK AMC
+http://supersonictv.live:8080/797792/016921/12173
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK And TV" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK And TV
+http://supersonictv.live:8080/797792/016921/12174
+#EXTINF:-1 tvg-id="AnimalPlanet(English).ca(m3u4u)" tvg-name="UK Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74041_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Animal Planet
+http://supersonictv.live:8080/797792/016921/12175
+#EXTINF:-1 tvg-id="AtTheRaces(src01).uk(m3u4u)" tvg-name="UK At The Races" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK At The Races
+http://supersonictv.live:8080/797792/016921/12176
+#EXTINF:-1 tvg-id="B4UMovies.uk(m3u4u)" tvg-name="UK B4U Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25529_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK B4U Movies
+http://supersonictv.live:8080/797792/016921/12177
+#EXTINF:-1 tvg-id="B4UMusic.uk(m3u4u)" tvg-name="UK B4U Music" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68054_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK B4U Music
+http://supersonictv.live:8080/797792/016921/12178
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK B4U PLUS" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK B4U PLUS
+http://supersonictv.live:8080/797792/016921/12179
+#EXTINF:-1 tvg-id="BabyTV.uk(m3u4u)" tvg-name="UK baby tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48542_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK baby tv
+http://supersonictv.live:8080/797792/016921/12180
+#EXTINF:-1 tvg-id="BBC1(src01).uk(m3u4u)" tvg-name="UK BBC 1" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 1
+http://supersonictv.live:8080/797792/016921/12181
+#EXTINF:-1 tvg-id="BBC2(England).uk(m3u4u)" tvg-name="UK BBC 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68113_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 2
+http://supersonictv.live:8080/797792/016921/12182
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK BBC 3" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 3
+http://supersonictv.live:8080/797792/016921/12183
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK BBC 4" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 4
+http://supersonictv.live:8080/797792/016921/12184
+#EXTINF:-1 tvg-id="BBCAlba.uk(m3u4u)" tvg-name="UK BBC Alba" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60940_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC Alba
+http://supersonictv.live:8080/797792/016921/12185
+#EXTINF:-1 tvg-id="BBCNews.uk(m3u4u)" tvg-name="UK BBC News HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC News HD
+http://supersonictv.live:8080/797792/016921/12186
+#EXTINF:-1 tvg-id="BBC1NorthernIreland(src01).uk(m3u4u)" tvg-name="UK BBC 1 Northern Ireland" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 1 Northern Ireland
+http://supersonictv.live:8080/797792/016921/12187
+#EXTINF:-1 tvg-id="BBC1Scotland(src01).uk(m3u4u)" tvg-name="UK BBC 1 Scotland" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 1 Scotland
+http://supersonictv.live:8080/797792/016921/12188
+#EXTINF:-1 tvg-id="BBC1Wales(src01).uk(m3u4u)" tvg-name="UK BBC 1 Wales" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 1 Wales
+http://supersonictv.live:8080/797792/016921/12189
+#EXTINF:-1 tvg-id="BBCParliament.uk(m3u4u)" tvg-name="UK BBC Parliament" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20685_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC Parliament
+http://supersonictv.live:8080/797792/016921/12190
+#EXTINF:-1 tvg-id="BBCScotland.uk(m3u4u)" tvg-name="UK BBC Scotland" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110718_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC Scotland
+http://supersonictv.live:8080/797792/016921/12191
+#EXTINF:-1 tvg-id="BBC2NorthernIreland(src01).uk(m3u4u)" tvg-name="UK BBC 2 Northern Ireland" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 2 Northern Ireland
+http://supersonictv.live:8080/797792/016921/12192
+#EXTINF:-1 tvg-id="BBCScotland.uk(m3u4u)" tvg-name="UK BBC 2 Scotland" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110718_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC 2 Scotland
+http://supersonictv.live:8080/797792/016921/12193
+#EXTINF:-1 tvg-id="BBCTwoWales.uk(m3u4u)" tvg-name="UK BBC Two Wales" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110242_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC Two Wales
+http://supersonictv.live:8080/797792/016921/12194
+#EXTINF:-1 tvg-id="BBCWorldNews(MiddleEast)(src01).uk(m3u4u)" tvg-name="UK BBC World News" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BBC World News
+http://supersonictv.live:8080/797792/016921/12195
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK BET" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BET
+http://supersonictv.live:8080/797792/016921/12196
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Blaze TV" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Blaze TV
+http://supersonictv.live:8080/797792/016921/12197
+#EXTINF:-1 tvg-id="Bloomberg(UK).uk(m3u4u)" tvg-name="UK Bloomberg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20711_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Bloomberg
+http://supersonictv.live:8080/797792/016921/12198
+#EXTINF:-1 tvg-id="Boomerang.uk(m3u4u)" tvg-name="UK Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24341_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Boomerang
+http://supersonictv.live:8080/797792/016921/12199
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK BOX Hits" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK BOX Hits
+http://supersonictv.live:8080/797792/016921/12200
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK CITV" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK CITV
+http://supersonictv.live:8080/797792/016921/12201
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca(m3u4u)" tvg-name="UK Cartoon network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75456_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Cartoon network
+http://supersonictv.live:8080/797792/016921/12202
+#EXTINF:-1 tvg-id="Cartoonito.uk(m3u4u)" tvg-name="UK Cartoonito" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31760_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Cartoonito
+http://supersonictv.live:8080/797792/016921/12203
+#EXTINF:-1 tvg-id="CBBC.uk(m3u4u)" tvg-name="UK CBBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83281_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK CBBC
+http://supersonictv.live:8080/797792/016921/12204
+#EXTINF:-1 tvg-id="CBeebies.uk(m3u4u)" tvg-name="UK CBeebies HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83283_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK CBeebies HD
+http://supersonictv.live:8080/797792/016921/12205
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK CBS Action" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK CBS Action
+http://supersonictv.live:8080/797792/016921/12206
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK CBS Justice" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK CBS Justice
+http://supersonictv.live:8080/797792/016921/12207
+#EXTINF:-1 tvg-id="CBSReality(src01).uk(m3u4u)" tvg-name="[UK] CBS Reality" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",[UK] CBS Reality
+http://supersonictv.live:8080/797792/016921/12208
+#EXTINF:-1 tvg-id="Challenge.uk(m3u4u)" tvg-name="UK Challenge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21793_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Challenge
+http://supersonictv.live:8080/797792/016921/12209
+#EXTINF:-1 tvg-id="Channel4.uk(m3u4u)" tvg-name="UK Channel 4 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17155_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Channel 4 HD
+http://supersonictv.live:8080/797792/016921/12210
+#EXTINF:-1 tvg-id="Channel5.uk(m3u4u)" tvg-name="[UK] Channel 5 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17157_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",[UK] Channel 5 HD
+http://supersonictv.live:8080/797792/016921/12211
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Chart Show Hits UK" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Chart Show Hits UK
+http://supersonictv.live:8080/797792/016921/12212
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Chelsea TV HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Chelsea TV HD
+http://supersonictv.live:8080/797792/016921/12213
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK MTV Club" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK MTV Club
+http://supersonictv.live:8080/797792/016921/12214
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK CNBC News" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK CNBC News
+http://supersonictv.live:8080/797792/016921/12215
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK CNN HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK CNN HD
+http://supersonictv.live:8080/797792/016921/12216
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Colors" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Colors
+http://supersonictv.live:8080/797792/016921/12217
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Colors Europe" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Colors Europe
+http://supersonictv.live:8080/797792/016921/12218
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Comedy Central Extra" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Comedy Central Extra
+http://supersonictv.live:8080/797792/016921/12219
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Comedy Central HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Comedy Central HD
+http://supersonictv.live:8080/797792/016921/12220
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Crime & Investigation HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Crime & Investigation HD
+http://supersonictv.live:8080/797792/016921/12221
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Dave HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Dave HD
+http://supersonictv.live:8080/797792/016921/12222
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Discovery" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Discovery
+http://supersonictv.live:8080/797792/016921/12223
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Discovery History" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Discovery History
+http://supersonictv.live:8080/797792/016921/12224
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Discovery Investigation" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Discovery Investigation
+http://supersonictv.live:8080/797792/016921/12225
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Discovery Science" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Discovery Science
+http://supersonictv.live:8080/797792/016921/12226
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Discovery Shed" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Discovery Shed
+http://supersonictv.live:8080/797792/016921/12227
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Discovery Turbo" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Discovery Turbo
+http://supersonictv.live:8080/797792/016921/12228
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK DISNEY HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK DISNEY HD
+http://supersonictv.live:8080/797792/016921/12229
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Disney XD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Disney XD
+http://supersonictv.live:8080/797792/016921/12230
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK DMAX HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK DMAX HD
+http://supersonictv.live:8080/797792/016921/12231
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Drama" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Drama
+http://supersonictv.live:8080/797792/016921/12232
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK E! Entertainment" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK E! Entertainment
+http://supersonictv.live:8080/797792/016921/12233
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK E4" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK E4
+http://supersonictv.live:8080/797792/016921/12234
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK E4 HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK E4 HD
+http://supersonictv.live:8080/797792/016921/12235
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK EDEN HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK EDEN HD
+http://supersonictv.live:8080/797792/016921/12236
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Film 4 HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Film 4 HD
+http://supersonictv.live:8080/797792/016921/12237
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Film 4 HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Film 4 HD
+http://supersonictv.live:8080/797792/016921/12238
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Fine Living Network" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Fine Living Network
+http://supersonictv.live:8080/797792/016921/12239
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Channel Five" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Channel Five
+http://supersonictv.live:8080/797792/016921/12240
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Food Network" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Food Network
+http://supersonictv.live:8080/797792/016921/12241
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Fox" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Fox
+http://supersonictv.live:8080/797792/016921/12242
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Fox News HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Fox News HD
+http://supersonictv.live:8080/797792/016921/12243
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK France 24" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK France 24
+http://supersonictv.live:8080/797792/016921/12244
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Free Sports" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Free Sports
+http://supersonictv.live:8080/797792/016921/12245
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Gold" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Gold
+http://supersonictv.live:8080/797792/016921/12246
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Good Food" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Good Food
+http://supersonictv.live:8080/797792/016921/12247
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK History 2" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK History 2
+http://supersonictv.live:8080/797792/016921/12248
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK History HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK History HD
+http://supersonictv.live:8080/797792/016921/12249
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Home" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Home
+http://supersonictv.live:8080/797792/016921/12250
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Discovery Home And Health" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Discovery Home And Health
+http://supersonictv.live:8080/797792/016921/12251
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Horse and Country" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Horse and Country
+http://supersonictv.live:8080/797792/016921/12252
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK ITV 1" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK ITV 1
+http://supersonictv.live:8080/797792/016921/12253
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK ITV 2" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK ITV 2
+http://supersonictv.live:8080/797792/016921/12254
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK ITV 3" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK ITV 3
+http://supersonictv.live:8080/797792/016921/12255
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Itv 4" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Itv 4
+http://supersonictv.live:8080/797792/016921/12256
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK ITVBE" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK ITVBE
+http://supersonictv.live:8080/797792/016921/12257
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK LFC TV" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK LFC TV
+http://supersonictv.live:8080/797792/016921/12258
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Life Time HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Life Time HD
+http://supersonictv.live:8080/797792/016921/12259
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK London Live" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK London Live
+http://supersonictv.live:8080/797792/016921/12260
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK More 4" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK More 4
+http://supersonictv.live:8080/797792/016921/12261
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK More 4 HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK More 4 HD
+http://supersonictv.live:8080/797792/016921/12262
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Movies4Men" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Movies4Men
+http://supersonictv.live:8080/797792/016921/12263
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK MUTV" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK MUTV
+http://supersonictv.live:8080/797792/016921/12264
+#EXTINF:-1 tvg-id="MUTV(src01).uk(m3u4u)" tvg-name="UK MUTV HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK MUTV HD
+http://supersonictv.live:8080/797792/016921/12265
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Nat Geo" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Nat Geo
+http://supersonictv.live:8080/797792/016921/12266
+#EXTINF:-1 tvg-id="NatGeoWild(src01).uk(m3u4u)" tvg-name="UK Nat Geo Wild" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Nat Geo Wild
+http://supersonictv.live:8080/797792/016921/12267
+#EXTINF:-1 tvg-id="NickJrToo.uk(m3u4u)" tvg-name="UK Nick Jnr Too" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50269_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Nick Jnr Too
+http://supersonictv.live:8080/797792/016921/12268
+#EXTINF:-1 tvg-id="NickJunior.uk(m3u4u)" tvg-name="UK NICK JUNIOR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24025_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK NICK JUNIOR
+http://supersonictv.live:8080/797792/016921/12269
+#EXTINF:-1 tvg-id="Nicktoons.uk(m3u4u)" tvg-name="UK NICK TOONS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31168_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK NICK TOONS
+http://supersonictv.live:8080/797792/016921/12270
+#EXTINF:-1 tvg-id="Nickelodeon.uk(m3u4u)" tvg-name="UK Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17419_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Nickelodeon
+http://supersonictv.live:8080/797792/016921/12271
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK PICK" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK PICK
+http://supersonictv.live:8080/797792/016921/12272
+#EXTINF:-1 tvg-id="Pop.uk(m3u4u)" tvg-name="UK POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33638_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK POP
+http://supersonictv.live:8080/797792/016921/12273
+#EXTINF:-1 tvg-id="Quest.uk(m3u4u)" tvg-name="UK Quest" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62391_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Quest
+http://supersonictv.live:8080/797792/016921/12274
+#EXTINF:-1 tvg-id="QuestRed.uk(m3u4u)" tvg-name="UK Quest Red" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102471_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Quest Red
+http://supersonictv.live:8080/797792/016921/12275
+#EXTINF:-1 tvg-id="RacingTV.uk(m3u4u)" tvg-name="UK Racing TV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24226_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Racing TV HD
+http://supersonictv.live:8080/797792/016921/12276
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Real Lives" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Real Lives
+http://supersonictv.live:8080/797792/016921/12277
+#EXTINF:-1 tvg-id="Really(src01).uk(m3u4u)" tvg-name="UK Really" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Really
+http://supersonictv.live:8080/797792/016921/12278
+#EXTINF:-1 tvg-id="ColorsRishtey.uk(m3u4u)" tvg-name="UK Colors Rishtey" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77777_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Colors Rishtey
+http://supersonictv.live:8080/797792/016921/12279
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK ROK TV" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK ROK TV
+http://supersonictv.live:8080/797792/016921/12280
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK RTE 1 HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK RTE 1 HD
+http://supersonictv.live:8080/797792/016921/12281
+#EXTINF:-1 tvg-id="RTE2.uk(m3u4u)" tvg-name="UK RTE 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25555_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK RTE 2 HD
+http://supersonictv.live:8080/797792/016921/12282
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK RTE Junior" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK RTE Junior
+http://supersonictv.live:8080/797792/016921/12283
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK RTE News Now" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK RTE News Now
+http://supersonictv.live:8080/797792/016921/12284
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK RTE One" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK RTE One
+http://supersonictv.live:8080/797792/016921/12285
+#EXTINF:-1 tvg-id="RTE2.uk(m3u4u)" tvg-name="UK RTE 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25555_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK RTE 2
+http://supersonictv.live:8080/797792/016921/12286
+#EXTINF:-1 tvg-id="S4C.uk(m3u4u)" tvg-name="UK S4C" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25342_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK S4C
+http://supersonictv.live:8080/797792/016921/12287
+#EXTINF:-1 tvg-id="SONYSAB(src01).uk(m3u4u)" tvg-name="UK Sab TV (SET)" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Sab TV (SET)
+http://supersonictv.live:8080/797792/016921/12288
+#EXTINF:-1 tvg-id="SonyChannel.uk(m3u4u)" tvg-name="UK Sony Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31759_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Sony Channel
+http://supersonictv.live:8080/797792/016921/12298
+#EXTINF:-1 tvg-id="SonyEntertainment(Estonian).uk(m3u4u)" tvg-name="UK Sony Entertainment (SET)" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Sony Entertainment (SET)
+http://supersonictv.live:8080/797792/016921/12299
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK spike" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK spike
+http://supersonictv.live:8080/797792/016921/12300
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Star Bharat" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Star Bharat
+http://supersonictv.live:8080/797792/016921/12301
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Star Gold" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Star Gold
+http://supersonictv.live:8080/797792/016921/12302
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Star Jalsha" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Star Jalsha
+http://supersonictv.live:8080/797792/016921/12303
+#EXTINF:-1 tvg-id="STARPlus.uk(m3u4u)" tvg-name="UK Star Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25115_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Star Plus
+http://supersonictv.live:8080/797792/016921/12304
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Starz TV" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Starz TV
+http://supersonictv.live:8080/797792/016921/12305
+#EXTINF:-1 tvg-id="STV.uk(m3u4u)" tvg-name="UK STV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68033_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK STV HD
+http://supersonictv.live:8080/797792/016921/12306
+#EXTINF:-1 tvg-id="SyFy(src01).uk(m3u4u)" tvg-name="UK Syfy" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Syfy
+http://supersonictv.live:8080/797792/016921/12307
+#EXTINF:-1 tvg-id="TalkingPictures.uk(m3u4u)" tvg-name="UK Talking Pictures HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103481_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Talking Pictures HD
+http://supersonictv.live:8080/797792/016921/12308
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK TCM HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK TCM HD
+http://supersonictv.live:8080/797792/016921/12309
+#EXTINF:-1 tvg-id="TG4.uk(m3u4u)" tvg-name="UK TG4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30454_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK TG4
+http://supersonictv.live:8080/797792/016921/12310
+#EXTINF:-1 tvg-id="TheVault.uk(m3u4u)" tvg-name="UK The Vault" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32675_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK The Vault
+http://supersonictv.live:8080/797792/016921/12311
+#EXTINF:-1 tvg-id="TinyPop.uk(m3u4u)" tvg-name="UK Tiny Pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s153520_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Tiny Pop
+http://supersonictv.live:8080/797792/016921/12312
+#EXTINF:-1 tvg-id="TLC.uk(m3u4u)" tvg-name="UK TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79654_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK TLC
+http://supersonictv.live:8080/797792/016921/12313
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Travel Channel" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Travel Channel
+http://supersonictv.live:8080/797792/016921/12314
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK True Entertainment" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK True Entertainment
+http://supersonictv.live:8080/797792/016921/12315
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK True Movies 1" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK True Movies 1
+http://supersonictv.live:8080/797792/016921/12316
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK TruTV" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK TruTV
+http://supersonictv.live:8080/797792/016921/12317
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK TV3 IR HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK TV3 IR HD
+http://supersonictv.live:8080/797792/016921/12318
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK UFC fight night Pass HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK UFC fight night Pass HD
+http://supersonictv.live:8080/797792/016921/12320
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK UFC Fight PASS" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK UFC Fight PASS
+http://supersonictv.live:8080/797792/016921/12321
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Universal Channel HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Universal Channel HD
+http://supersonictv.live:8080/797792/016921/12322
+#EXTINF:-1 tvg-id="UTV.uk(m3u4u)" tvg-name="UK UTV Ireland" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68073_dark_360w_270h.png" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK UTV Ireland
+http://supersonictv.live:8080/797792/016921/12323
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK VH1 Classic" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK VH1 Classic
+http://supersonictv.live:8080/797792/016921/12324
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Viceland HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Viceland HD
+http://supersonictv.live:8080/797792/016921/12325
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK VIVA" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK VIVA
+http://supersonictv.live:8080/797792/016921/12326
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK W  1" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK W  1
+http://supersonictv.live:8080/797792/016921/12327
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Watch" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Watch
+http://supersonictv.live:8080/797792/016921/12328
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Yesterday HD" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Yesterday HD
+http://supersonictv.live:8080/797792/016921/12329
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Zee Cinema" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Zee Cinema
+http://supersonictv.live:8080/797792/016921/12330
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Zee Punjabi" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Zee Punjabi
+http://supersonictv.live:8080/797792/016921/12331
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Zee Cinema" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Zee Cinema
+http://supersonictv.live:8080/797792/016921/12332
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UK Zing" tvg-logo="" group-title="U.K 🏴󠁧󠁢󠁥󠁮󠁧󠁿",UK Zing
+http://supersonictv.live:8080/797792/016921/12333
