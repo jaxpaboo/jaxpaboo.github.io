@@ -1,39 +1,9 @@
-#EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:929
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXTINF:6.006,
+#EXTM3U 
+#EXTINF:6.006, tvg-id="AMC.us(m3u4u)" tvg-name="001"
 https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318624c.ts?hdntl=exp=1725841107~acl=/*~hmac=07b6063fbf7560e0d14175fb22161e46ca7f2e9225fc703c891a3167fd6ec518
-#EXTINF:6.006,
+#EXTINF:6.006, tvg-name="002"
 https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318625c.ts?hdntl=exp=1725841113~acl=/*~hmac=5faeffccd8582315a86f39be69d5df7b5c784a7153c75c3e56126aec991cdc47
-#EXTINF:6.006,
+#EXTINF:-1, tvg-id="AMC.us(m3u4u)" tvg-name="003"
 https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318626c.ts?hdntl=exp=1725841119~acl=/*~hmac=a5961273c2cbb4b61748f6f3460fd8558f8bc98edc6e9c11130bad757a8a788c
-#EXTINF:6.006,
+#EXTINF:-1, tvg-name="004"
 https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318627c.ts?hdntl=exp=1725841125~acl=/*~hmac=a0dc11007ac64afc8206c538272c2c177ee70d4c4c01938f2f7b0e954be975bd
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318628c.ts?hdntl=exp=1725841131~acl=/*~hmac=5fa5a43a5760d2762cf22e638886f3fb1a41dfd13335ddf0fa8999f95c3eac75
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318629c.ts?hdntl=exp=1725841137~acl=/*~hmac=4440a07c112cb2e638ca83b9781d566ba4642e33f5816a457d7810a4e9f023e6
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318630c.ts?hdntl=exp=1725841143~acl=/*~hmac=b06a493697ef5d06189016461ba05dec56512a2d61bcc148f6be08534d8214c8
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318631c.ts?hdntl=exp=1725841149~acl=/*~hmac=797590d255d9d63e6dcd8eb5d0e95038f0cf09081d40fe5db2b0e8118acb03fb
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318632c.ts?hdntl=exp=1725841155~acl=/*~hmac=e66329c4a3251f9b839d48d7d942ed4a2e0552f9409d98ee8e7bab319bbfcc8d
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318633c.ts?hdntl=exp=1725841161~acl=/*~hmac=08b8c04067d513104d1ad3f9c767fc2fa8af15b7582751ead823e0ac1aac0212
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318634c.ts?hdntl=exp=1725841167~acl=/*~hmac=dae69c6aa6ecd92702feae5794a29378df0f05fec71f5013b59ab34f0b114f8f
-#EXTINF:4.004,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318635c.ts?hdntl=exp=1725841171~acl=/*~hmac=ea7a41f27055b6ba648b3ca60d2ced856056b1dd8216cb2f5f68aa688471a29b
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318636c.ts?hdntl=exp=1725841177~acl=/*~hmac=d8098b6b52ffc4af711942b7a5881cba9ff96df7a39d933ebfdce003d81c7366
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318637c.ts?hdntl=exp=1725841183~acl=/*~hmac=7fa8d4e547f3f2065bb89defe524826f0357024efe6c2c163f1750011bfb64bb
-#EXTINF:6.006,
-https://o300801-mp-lura-live.akamaized.net/live/ephemeral/4mAweME7l82XFoC4Wh8Ra6eLX2nG8Nqo/dmla-anvato13/3328k/qo0w09hJ0nf/164318/segment_164318638c.ts?hdntl=exp=1725841189~acl=/*~hmac=a42480d1708b867f38f0a125851db639fdda74f9a50cae03cccbd52677222ba4
-#ANVATO-NODE:177627219
-#ANVATO-SESSION-ID: m177635115-n56010125cbb210e7b127b991e92bb848
-#ANVATO-CDN-PROVIDER: akamai
