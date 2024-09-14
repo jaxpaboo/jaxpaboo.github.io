@@ -1,0 +1,82 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Paboo Tally Stations 🍢 </title>
+    <link rel="shortcut icon" type="image/x-icon" href="./images/DOM_is_a_coding_god_or_maybe_dog_questionmark_but_he_will_never_gonna_let_you_down.ico">
+  </head>
+
+  <body>
+    <!-- CSS  -->
+    <!-- file source is from: https://gist.github.com/Fazzani/8f89546e188f8086a46073dc5d4e2928 -->
+    <!-- this html page is from: https://stackoverflow.com/questions/19782389/playing-m3u8-files-with-html-video-tag -->
+    <!-- sample page: https://jlypnc.csb.app/ -->
+    <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet" />
+
+    <h2><a href="./NYC/index.html">I left my ❤️ in NYC!</a></h2>
+    <h2><a href="./Tally/index.html">Tally, Tally, 🍢 Going back to Tally.</a></h2>
+    
+    <!-- HTML -->
+    <video
+      id="hls-example"
+      class="video-js vjs-default-skin"
+      width="400"
+      height="300"
+      controls
+    >
+      <source
+        type="application/x-mpegURL"
+        src=
+"
+https://v1.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=cWJPM2NTZjVUN2dCcTRCeFgzeno4d2dIQ1VqcElJZ3pHaFVydXUxRA%3D%3D
+"
+      />
+    </video>
+
+    <!-- JS code -->
+    <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+    <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
+    <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+
+    <script>
+      var player = videojs("hls-example");
+  
+      player.play();
+    </script>
+
+    <form name="form1" method="post" action="">
+      <p>8-digit product#
+        <input type="text" name="model" id="model" value="abc">
+      </p>
+      <p>
+        <input name="start" type="hidden" id="start" value="http://jaxpaboo.github.io/images/">
+      </p>
+      <p>
+        <input name="end" type="hidden" id="end" value="_logo.ico">
+      </p>
+      <p><img name="proudctimage" src="=#start#model#end" width="32" height="32" alt=""></p>
+    </form>
+
+    <script>
+      var model_input = document.getElementById('model');
+      var start = document.getElementById('start');
+      var end = document.getElementById('end');
+      var image = document.getElementsByTagName('img');
+      console.log(model_input)
+      console.log(start)
+      console.log(end)
+
+      // Initial load
+      image[0].src = start.value + model_input.value + end.value;
+
+      model_input.onkeyup = function(e){
+        image[0].src = start.value + model_input.value + end.value;
+      }
+    </script>
+
+
+    <img src="http://jaxpaboo.github.io/images/abc_logo.ico" />
+  </body>
+
+  
+</html>

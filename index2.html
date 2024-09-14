@@ -1,9 +1,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Paboo Tally Stations 🍢 </title>
-    <link rel="shortcut icon" type="image/x-icon" href="nbc_logo.ico">
-
+    <title>Paboo Player Player</title>
+    <link rel="shortcut icon" type="image/x-icon" href="./images/DOM_is_a_coding_god_or_maybe_dog_questionmark_but_he_will_never_gonna_let_you_down.ico">
   </head>
 
   <body>
@@ -15,31 +14,70 @@
 
     <h2><a href="./NYC/index.html">I left my ❤️ in NYC!</a></h2>
     <h2><a href="./Tally/index.html">Tally, Tally, 🍢 Going back to Tally.</a></h2>
-    
-    <!-- HTML -->
-    <video
-      id="hls-example"
-      class="video-js vjs-default-skin"
-      width="400"
-      height="300"
-      controls
-    >
-      <source
-        type="application/x-mpegURL"
-        src=
-"
-https://v1.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=cWJPM2NTZjVUN2dCcTRCeFgzeno4d2dIQ1VqcElJZ3pHaFVydXUxRA%3D%3D
-"
-      />
-    </video>
 
-    <!-- JS code -->
-    <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+    <!-- <form name="form1" method="post" action="" onSubmit="search();return false;" > -->
+    <form name="form1" method="post" action="" onSubmit="return false;" >
+      <p>New Player Url <input type="text" name="model" id="model" value=""><button onclick = "patreload()" > Reload </button></p>
+    </form>
+
     <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
     <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
 
+    <!-- HTML -->
+    <video id="hls-example" class="video-js vjs-default-skin" width="400" height="300" controls>
+    <source
+      type="application/x-mpegURL"
+      src=
+    "
+    https://v1.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=cWJPM2NTZjVUN2dCcTRCeFgzeno4d2dIQ1VqcElJZ3pHaFVydXUxRA%3D%3D
+    "
+    />
+    </video>
     <script>
+      function patreload() { 
+         console.log("clicked")
+         const patfile = document.getElementById('model').value;
+         const origin = window.location.origin;
+         const pathname = window.location.pathname;
+         console.log("href",window.location.href)
+         console.log("host",window.location.host)
+         console.log(".",window.location)
+         console.log("pathname", window.location.pathname)
+
+         const newpath1 = patfile.replace("?", "&");
+         console.log("newpath1");
+         console.log(newpath1);
+         
+         console.log("origin", origin)
+
+         const newpath2 = origin + pathname + "?url=" + newpath1;
+         console.log("newpath2");
+         console.log(newpath2);
+
+
+
+         window.location.href = newpath2;
+      } 
+    </script>
+
+    <script>
+      var model_input = document.getElementById('model');
+      var source = document.getElementsByTagName('source');
+      console.log(model_input)
+      console.log(source)
+
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      const paturl = urlParams.get('url');
+      const pattoken = urlParams.get('token');
+      console.log('paturl', paturl)
+      console.log('pattoken', pattoken)
+
+      // console.log("oldsourcesrc", source[0].src)
+      source[0].src = paturl + "?token=" + pattoken;
+      console.log("newsourcesrc", source[0].src)
+      
       var player = videojs("hls-example");
       player.play();
     </script>
