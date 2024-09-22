@@ -1,0 +1,66 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Paboo Player Player</title>
+    <link rel="shortcut icon" type="image/x-icon" href="./images/DOM_is_a_coding_god_or_maybe_dog_questionmark_but_he_will_never_gonna_let_you_down.ico">
+  </head>
+
+  <body>
+    <!-- CSS  -->
+    <!-- file source is from: https://gist.github.com/Fazzani/8f89546e188f8086a46073dc5d4e2928 -->
+    <!-- this html page is from: https://stackoverflow.com/questions/19782389/playing-m3u8-files-with-html-video-tag -->
+    <!-- sample page: https://jlypnc.csb.app/ -->
+    <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet" />
+
+    Paboo Embedded Tester
+
+    <embed src="https://puffer.stanford.edu/player/" style="width:500px; height: 300px;">
+
+      <iframe src="https://puffer.stanford.edu/player/" width="100%" height="300">
+        <p>Your browser does not support iframes.</p>
+      </iframe>
+
+    <!-- <form name="form1" method="post" action="" onSubmit="search();return false;" > -->
+    <form name="form1" method="post" action="" onSubmit="return false;" >
+      <p>New Player Url <input type="text" name="model" id="model" value=""><button onclick = "patreload()" > Reload </button></p>
+    </form>
+
+    <script>
+      function patreload() { 
+         console.log("clicked")
+         const patfile = document.getElementById('model').value;
+         const origin = window.location.origin;
+         const pathname = window.location.pathname;
+         console.log("href",window.location.href)
+         console.log("host",window.location.host)
+         console.log(".",window.location)
+         console.log("pathname", window.location.pathname)
+
+         const newpath1 = patfile.replace("?", "&");
+         console.log("newpath1");
+         console.log(newpath1);
+         
+         console.log("origin", origin)
+
+         const newpath2 = origin + pathname + "?url=" + newpath1;
+         console.log("newpath2");
+         console.log(newpath2);
+
+
+
+         window.location.href = newpath2;
+      } 
+    </script>
+
+<frameset cols="85%, 15%">
+  <frame src="http://www.example.com/frame_1.html" name="frame_1">
+  <frame src="http://alt.example.com/frame_2.html" name="frame_2">
+  <noframes>
+    Your browser does not support frames. 
+    <a href="http://www.example.com/frame_1.html">Click here</a> to view frame 1. 
+    <a href="http://alt.example.com/frame_2.html">Click here</a> for frame 2.
+  </noframes>
+</frameset>
+  </body>
+ 
+</html>
