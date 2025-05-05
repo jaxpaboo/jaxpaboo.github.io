@@ -3,14 +3,56 @@
     <meta charset="utf-8" />
     <title>Emma Nighttime Music</title>
     <link rel="shortcut icon" type="image/x-icon" href="../images//DOM_is_a_coding_god_or_maybe_dog_questionmark_but_he_will_never_gonna_let_you_down.ico">
-  </head>
-
-  <body>
-    <h1>Emma Nighttime Music</h1>
-    <h2>Download instructions.....(note... won't play in browser here):</h3>
+    <script src="http:///ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript">
+      //  $(function(){
+      //     alert("My First jQuery Test");
+      //  });
+      
+      $(function() {
+        var Mp3Queue = function(container, files) {
+          var index = 1;
+          if(!container || !container.tagName || container.tagName !== 'AUDIO')throw 'Invalid container';
+          if(!files || !files.length)throw 'Invalid files array';        
+          
+          var playNext = function() {
+              if(index < files.length) {
+                  container.src = files[index];
+                  index += 1;
+                  filename = files[index-1];
+                  filename = filename.split('/').pop();
+                  filename = filename.replace(/\.mp3$/i, '');
+                  document.getElementById("nowplaying").innerHTML = filename;                
+              } else {
+                  container.removeEventListener('ended', playNext, false);
+              }
+          };
+          
+          container.addEventListener('ended', playNext);
+          
+          container.src = files[0];
+      };
+      
+      var container = document.getElementById('container');
+      
+      new Mp3Queue(container, [
+        './01 London Bridge.mp3',
+        './02 Rock-a-Bye-Baby.mp3',
+        // './xx',
+        // 'http://incompetech.com/music/royalty-free/mp3-royaltyfree/Sweeter%20Vermouth.mp3',
+        // 'http://incompetech.com/music/royalty-free/mp3-royaltyfree/Happy%20Boy%20Theme.mp3',
+      ]);
+    })
+  </script>   
+</head>
+   
+<body style="background-color:black;"  color: blue></body>
+    <h1 style="color: lightblue">Emma Nighttime Music</h1>
+    <h3 style="color: lightblue">Now Playing:</h3>
+    <h2 style="color: lightblue" id="nowplaying">01 London Bridge</h2>
     
-    <h3>Laptop - Rightclick - Save link as</h3>
-    <h3>Phone - Long Push - Download link</h3>
+    <audio id="container" controls="" autoplay="" style="color: blue"></audio>
+    
     <h2><a href="./01 London Bridge.mp3">01 London Bridge</a></h2>
     <h2><a href="./02 Rock-a-Bye-Baby.mp3">02 Rock-a-Bye-Baby</a></h2>
     <h2><a href="./03 Are You Sleeping-.mp3">03 Are You Sleeping</a></h2>
